@@ -54,7 +54,8 @@ else:
 
     nx.draw_networkx_nodes(G, pos, node_size=600, node_color="#4A90D9", alpha=0.8, ax=ax)
     nx.draw_networkx_edges(G, pos, width=widths, alpha=0.5, edge_color="#888", ax=ax)
-    nx.draw_networkx_labels(G, pos, font_size=9, font_family="sans-serif", ax=ax)
+    _font_name = matplotlib.rcParams["font.family"][0] if isinstance(matplotlib.rcParams["font.family"], list) else matplotlib.rcParams["font.family"]
+    nx.draw_networkx_labels(G, pos, font_size=9, font_family=_font_name, ax=ax)
     ax.set_title(f"共起ネットワーク（上位 {len(agg)} ペア）")
     ax.axis("off")
     st.pyplot(fig)

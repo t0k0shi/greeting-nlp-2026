@@ -7,7 +7,7 @@ familymart,"
 ",おめでとう,1
 familymart,"
 
-",さま,4
+",すべて,1
 familymart,"
 
 ",そのまま,1
@@ -76,7 +76,7 @@ familymart,"
 ",力強い,1
 familymart,"
 
-",加盟店,2
+",加盟店,3
 familymart,"
 
 ",勢い,1
@@ -139,6 +139,9 @@ familymart,"
 ",牽引,1
 familymart,"
 
+",現場,1
+familymart,"
+
 ",示す,1
 familymart,"
 
@@ -181,6 +184,9 @@ familymart,"
 ",関わる,1
 familymart,"
 
+",関係者,1
+familymart,"
+
 ",馳せる,1
 familymart,"
 
@@ -204,35 +210,6 @@ familymart,おめでとう,ファミリーマート,1
 familymart,おめでとう,健やか,1
 familymart,おめでとう,明ける,1
 familymart,おめでとう,迎える,1
-familymart,さま,すべて,1
-familymart,さま,づくり,1
-familymart,さま,とも,1
-familymart,さま,ファミリーマート,1
-familymart,さま,一丸,1
-familymart,さま,一人ひとり,1
-familymart,さま,世界中,2
-familymart,さま,乗り越える,1
-familymart,さま,体験,1
-familymart,さま,全力,1
-familymart,さま,分かち合う,1
-familymart,さま,加盟店,4
-familymart,さま,取引先,3
-familymart,さま,喜び,1
-familymart,さま,地域社会,3
-familymart,さま,店舗,1
-familymart,さま,感謝,1
-familymart,さま,成功,1
-familymart,さま,支える,2
-familymart,さま,日頃,1
-familymart,さま,流す,1
-familymart,さま,深い,1
-familymart,さま,現場,1
-familymart,さま,社員,1
-familymart,さま,話題,1
-familymart,さま,迎える,1
-familymart,さま,関わる,1
-familymart,さま,関係者,3
-familymart,さま,駆け抜ける,1
 familymart,すべて,とも,1
 familymart,すべて,ファミリーマート,1
 familymart,すべて,健やか,1
@@ -251,11 +228,13 @@ familymart,づくり,日本,1
 familymart,づくり,流す,1
 familymart,づくり,現場,1
 familymart,づくり,示す,1
+familymart,づくり,社員,1
 familymart,づくり,話題,1
 familymart,とも,ファミリーマート,1
 familymart,とも,分かち合う,1
 familymart,とも,喜び,1
 familymart,とも,日頃,1
+familymart,とも,迎える,1
 familymart,とも,関わる,1
 familymart,とる,ファミリーマート,1
 familymart,とる,大きな,1
@@ -375,6 +354,7 @@ familymart,ファミリーマート,加盟店,1
 familymart,ファミリーマート,勢い,1
 familymart,ファミリーマート,取り組み,1
 familymart,ファミリーマート,周年,1
+familymart,ファミリーマート,喜び,1
 familymart,ファミリーマート,売場,1
 familymart,ファミリーマート,変える,1
 familymart,ファミリーマート,大きな,1
@@ -435,8 +415,10 @@ familymart,一丸,乗り越える,1
 familymart,一丸,体験,1
 familymart,一丸,全力,1
 familymart,一丸,加盟店,1
+familymart,一丸,成功,1
 familymart,一丸,駆け抜ける,1
 familymart,一人ひとり,一体,1
+familymart,一人ひとり,加盟店,1
 familymart,一人ひとり,哲学,1
 familymart,一人ひとり,本部,1
 familymart,一人ひとり,流す,1
@@ -448,6 +430,8 @@ familymart,一体,本部,1
 familymart,一体,流す,1
 familymart,一体,社員,1
 familymart,一体,行動,1
+familymart,世界中,加盟店,1
+familymart,世界中,取引先,1
 familymart,世界中,地域社会,1
 familymart,世界中,感謝,1
 familymart,世界中,振り返る,1
@@ -476,6 +460,7 @@ familymart,乗り越える,加盟店,1
 familymart,乗り越える,必要,1
 familymart,乗り越える,成功,1
 familymart,乗り越える,過去,1
+familymart,乗り越える,駆け抜ける,1
 familymart,仕組み,創る,1
 familymart,仕組み,加盟店,1
 familymart,仕組み,変える,1
@@ -489,6 +474,7 @@ familymart,体現,感ずる,1
 familymart,体現,結果,1
 familymart,体現,行動,1
 familymart,体験,信ずる,1
+familymart,体験,全力,1
 familymart,体験,加盟店,1
 familymart,体験,必要,1
 familymart,体験,成功,1
@@ -521,6 +507,7 @@ familymart,分かち合う,喜び,1
 familymart,分かち合う,店舗,1
 familymart,分かち合う,支える,1
 familymart,分かち合う,日頃,1
+familymart,分かち合う,関わる,1
 familymart,創る,加盟店,1
 familymart,創る,変える,1
 familymart,創る,干支,1
@@ -560,6 +547,7 @@ familymart,加盟店,継続的,1
 familymart,加盟店,続ける,1
 familymart,加盟店,話題,1
 familymart,加盟店,過去,1
+familymart,加盟店,関係者,1
 familymart,加盟店,駆け抜ける,1
 familymart,勢い,走る,2
 familymart,勢い,駆け抜ける,1
@@ -592,6 +580,8 @@ familymart,取り組み,高い,2
 familymart,取引先,地域社会,1
 familymart,取引先,店舗,1
 familymart,取引先,支える,1
+familymart,取引先,日頃,1
+familymart,取引先,深い,1
 familymart,取引先,関係者,1
 familymart,周年,大きな,1
 familymart,周年,掲げる,1
@@ -607,6 +597,9 @@ familymart,哲学,行動,1
 familymart,喜び,店舗,1
 familymart,喜び,日頃,1
 familymart,喜び,関わる,1
+familymart,地域社会,店舗,1
+familymart,地域社会,感謝,1
+familymart,地域社会,支える,1
 familymart,地域社会,深い,1
 familymart,地域社会,関係者,1
 familymart,基盤,掛け合わせる,1
@@ -703,6 +696,7 @@ familymart,掲げる,現状,1
 familymart,支える,日本,1
 familymart,支える,日頃,1
 familymart,支える,示す,1
+familymart,支える,関係者,1
 familymart,新しい,走る,1
 familymart,新しい,願う,1
 familymart,旗手,時代,1
@@ -731,6 +725,7 @@ familymart,求める,立つ,1
 familymart,求める,節目,1
 familymart,流す,現場,1
 familymart,流す,社員,1
+familymart,流す,話題,1
 familymart,深い,関係者,1
 familymart,牽引,言える,1
 familymart,牽引,馳せる,1
@@ -10511,28 +10506,6 @@ mitsui-es,うってつけ,新しい,1
 mitsui-es,うってつけ,既存,1
 mitsui-es,うってつけ,果敢,1
 mitsui-es,うってつけ,進化,1
-mitsui-es,さま,とる,1
-mitsui-es,さま,ステークホルダー,3
-mitsui-es,さま,フェーズ,1
-mitsui-es,さま,三方,1
-mitsui-es,さま,上昇,1
-mitsui-es,さま,入る,1
-mitsui-es,さま,存在,1
-mitsui-es,さま,対する,1
-mitsui-es,さま,持続的,1
-mitsui-es,さま,掲げる,1
-mitsui-es,さま,最低限,1
-mitsui-es,さま,水準,1
-mitsui-es,さま,示す,1
-mitsui-es,さま,約束,1
-mitsui-es,さま,続ける,1
-mitsui-es,さま,良し,1
-mitsui-es,さま,計画,1
-mitsui-es,さま,責務,1
-mitsui-es,さま,超える,1
-mitsui-es,さま,達成,1
-mitsui-es,さま,重要,1
-mitsui-es,さま,願う,1
 mitsui-es,さらなる,フェーズ,1
 mitsui-es,さらなる,入る,1
 mitsui-es,さらなる,変化,1
@@ -10585,6 +10558,7 @@ mitsui-es,とる,行動,1
 mitsui-es,とる,衛生,1
 mitsui-es,とる,適切,1
 mitsui-es,とる,重要,1
+mitsui-es,とる,願う,1
 mitsui-es,ぶり,上方,1
 mitsui-es,ぶり,中間,1
 mitsui-es,ぶり,修正,1
@@ -10681,12 +10655,15 @@ mitsui-es,ステークホルダー,持続的,1
 mitsui-es,ステークホルダー,掲げる,1
 mitsui-es,ステークホルダー,最低限,1
 mitsui-es,ステークホルダー,水準,1
+mitsui-es,ステークホルダー,示す,1
 mitsui-es,ステークホルダー,約束,2
 mitsui-es,ステークホルダー,続ける,1
 mitsui-es,ステークホルダー,良し,1
 mitsui-es,ステークホルダー,計画,1
+mitsui-es,ステークホルダー,責務,1
 mitsui-es,ステークホルダー,超える,1
 mitsui-es,ステークホルダー,達成,1
+mitsui-es,ステークホルダー,重要,1
 mitsui-es,ステークホルダー,願う,1
 mitsui-es,セルフ,チェック,1
 mitsui-es,セルフ,徹底,1
@@ -10736,6 +10713,7 @@ mitsui-es,フェーズ,上昇,1
 mitsui-es,フェーズ,入る,1
 mitsui-es,フェーズ,感ずる,1
 mitsui-es,フェーズ,持続的,1
+mitsui-es,フェーズ,水準,1
 mitsui-es,フェーズ,示す,1
 mitsui-es,メンタルヘルス,加える,1
 mitsui-es,メンタルヘルス,姿勢,1
@@ -10824,6 +10802,7 @@ mitsui-es,三井E&S,風土,1
 mitsui-es,三方,信頼,1
 mitsui-es,三方,全て,1
 mitsui-es,三方,刻む,1
+mitsui-es,三方,存在,1
 mitsui-es,三方,従業員,1
 mitsui-es,三方,日々,1
 mitsui-es,三方,業務,1
@@ -10838,6 +10817,7 @@ mitsui-es,上方,営業,1
 mitsui-es,上方,見通し,1
 mitsui-es,上方,通期,1
 mitsui-es,上方,配当,1
+mitsui-es,上昇,入る,1
 mitsui-es,上昇,年初,1
 mitsui-es,上昇,持続的,1
 mitsui-es,上昇,水準,1
@@ -11272,6 +11252,7 @@ mitsui-es,実行,着実,1
 mitsui-es,実行,示す,1
 mitsui-es,実行,課題,1
 mitsui-es,対する,成し遂げる,1
+mitsui-es,対する,掲げる,1
 mitsui-es,対する,最低限,1
 mitsui-es,対する,約束,1
 mitsui-es,対する,計画,1
@@ -11380,6 +11361,7 @@ mitsui-es,持続的,注力,1
 mitsui-es,持続的,着実,1
 mitsui-es,持続的,示す,2
 mitsui-es,持続的,課題,1
+mitsui-es,持続的,超える,1
 mitsui-es,挑戦,捉われる,1
 mitsui-es,挑戦,新しい,1
 mitsui-es,挑戦,既存,1
@@ -11454,6 +11436,7 @@ mitsui-es,明確,確実,1
 mitsui-es,明確,行う,1
 mitsui-es,明確,領域,1
 mitsui-es,最低限,約束,1
+mitsui-es,最低限,計画,1
 mitsui-es,最低限,責務,1
 mitsui-es,最低限,達成,1
 mitsui-es,最優先,業務,1
@@ -11548,7 +11531,7 @@ mitsui-es,築く,関わりあう,1
 mitsui-es,米国,起きる,1
 mitsui-es,約束,計画,1
 mitsui-es,約束,責務,1
-mitsui-es,約束,達成,1
+mitsui-es,約束,達成,2
 mitsui-es,経営,買い手,1
 mitsui-es,経営,近江,1
 mitsui-es,経常利益,連続,1
@@ -11559,6 +11542,7 @@ mitsui-es,経済,難しさ,1
 mitsui-es,続く,通商,1
 mitsui-es,続く,適切,1
 mitsui-es,続く,高い,1
+mitsui-es,続ける,良し,1
 mitsui-es,続ける,買い手,1
 mitsui-es,続ける,醸成,1
 mitsui-es,続ける,重要,1
@@ -13402,9 +13386,6 @@ ntt-data-at,"
 ",あたる,1
 ntt-data-at,"
 
-",さま,1
-ntt-data-at,"
-
 ",みな,1
 ntt-data-at,"
 
@@ -13424,6 +13405,9 @@ ntt-data-at,"
 ntt-data-at,"
 
 ",切る,1
+ntt-data-at,"
+
+",向かう,1
 ntt-data-at,"
 
 ",喚起,1
@@ -13573,13 +13557,6 @@ ntt-data-at,private,高まる,1
 ntt-data-at,あたる,切る,1
 ntt-data-at,あたる,慶び,1
 ntt-data-at,あたる,謹む,1
-ntt-data-at,さま,みな,1
-ntt-data-at,さま,向かう,1
-ntt-data-at,さま,所存,1
-ntt-data-at,さま,新しい,1
-ntt-data-at,さま,未来,1
-ntt-data-at,さま,素晴らしい,1
-ntt-data-at,さま,踏み出す,1
 ntt-data-at,ほか,タワー,1
 ntt-data-at,ほか,対する,1
 ntt-data-at,ほか,技術,2
@@ -13590,6 +13567,7 @@ ntt-data-at,みな,向かう,1
 ntt-data-at,みな,所存,1
 ntt-data-at,みな,新しい,1
 ntt-data-at,みな,未来,1
+ntt-data-at,みな,素晴らしい,1
 ntt-data-at,みな,踏み出す,1
 ntt-data-at,みな,革新,1
 ntt-data-at,よる,データ,1
@@ -13826,6 +13804,7 @@ ntt-data-at,慶び,謹む,1
 ntt-data-at,慶び,駆ける,1
 ntt-data-at,所存,挑戦,1
 ntt-data-at,所存,新しい,1
+ntt-data-at,所存,未来,1
 ntt-data-at,所存,積極的,1
 ntt-data-at,所存,行う,1
 ntt-data-at,所存,革新,1
@@ -13854,6 +13833,7 @@ ntt-data-at,挑戦,革新,1
 ntt-data-at,推論,生成AI,1
 ntt-data-at,新しい,未来,1
 ntt-data-at,新しい,行う,1
+ntt-data-at,新しい,踏み出す,1
 ntt-data-at,新しい,革新,1
 ntt-data-at,明るい,走り抜ける,1
 ntt-data-at,明るい,関西,1
@@ -13910,9 +13890,6 @@ ntt-data-es,"
 ntt-data-es,"
 
 ",お礼,1
-ntt-data-es,"
-
-",さま,2
 ntt-data-es,"
 
 ",づくり,1
@@ -13999,6 +13976,9 @@ ntt-data-es,"
 ",注力,1
 ntt-data-es,"
 
+",満ちる,1
+ntt-data-es,"
+
 ",環境,1
 ntt-data-es,"
 
@@ -14018,6 +13998,9 @@ ntt-data-es,"
 ntt-data-es,"
 
 ",謹む,1
+ntt-data-es,"
+
+",賜る,1
 ntt-data-es,"
 
 ",迎える,1
@@ -14211,31 +14194,19 @@ ntt-data-es,あたる,中期経営計画,1
 ntt-data-es,あたる,厚情,1
 ntt-data-es,あたる,謹む,1
 ntt-data-es,あたる,賜る,1
-ntt-data-es,おめでとう,さま,1
 ntt-data-es,おめでとう,並々,1
+ntt-data-es,おめでとう,厚情,1
 ntt-data-es,おめでとう,年中,1
 ntt-data-es,おめでとう,明ける,1
-ntt-data-es,お礼,さま,1
 ntt-data-es,お礼,並々,1
 ntt-data-es,お礼,厚情,1
+ntt-data-es,お礼,年中,1
 ntt-data-es,お礼,謹む,1
 ntt-data-es,お礼,賜る,1
 ntt-data-es,お願い,希望,1
 ntt-data-es,お願い,引き続く,1
 ntt-data-es,お願い,満ちる,1
 ntt-data-es,お願い,賜る,1
-ntt-data-es,さま,とる,1
-ntt-data-es,さま,並々,1
-ntt-data-es,さま,厚情,1
-ntt-data-es,さま,基本,1
-ntt-data-es,さま,希望,1
-ntt-data-es,さま,年中,1
-ntt-data-es,さま,引き続く,1
-ntt-data-es,さま,指針,1
-ntt-data-es,さま,明ける,1
-ntt-data-es,さま,最後,1
-ntt-data-es,さま,満ちる,1
-ntt-data-es,さま,賜る,1
 ntt-data-es,づくり,キャリア,1
 ntt-data-es,づくり,主体的,1
 ntt-data-es,づくり,描ける,1
@@ -14249,6 +14220,7 @@ ntt-data-es,とも,尽力,1
 ntt-data-es,とも,新しい,1
 ntt-data-es,とも,構築,1
 ntt-data-es,とも,総合力,1
+ntt-data-es,とる,基本,1
 ntt-data-es,とる,希望,1
 ntt-data-es,とる,引き続く,1
 ntt-data-es,とる,指針,1
@@ -14430,6 +14402,7 @@ ntt-data-es,一人ひとり,環境,1
 ntt-data-es,一人ひとり,社員,2
 ntt-data-es,並々,厚情,1
 ntt-data-es,並々,年中,1
+ntt-data-es,並々,明ける,1
 ntt-data-es,並々,賜る,1
 ntt-data-es,中期経営計画,年度,1
 ntt-data-es,中期経営計画,年間,1
@@ -14601,6 +14574,7 @@ ntt-data-es,市場,生産,1
 ntt-data-es,市場,製造業,1
 ntt-data-es,市場,計画,1
 ntt-data-es,希望,引き続く,1
+ntt-data-es,希望,指針,1
 ntt-data-es,希望,最後,1
 ntt-data-es,希望,満ちる,1
 ntt-data-es,希望,賜る,1
@@ -14613,6 +14587,7 @@ ntt-data-es,年間,最終,1
 ntt-data-es,年間,迎える,1
 ntt-data-es,広げる,裾野,1
 ntt-data-es,広げる,開始,1
+ntt-data-es,引き続く,最後,1
 ntt-data-es,引き続く,満ちる,1
 ntt-data-es,引き続く,賜る,1
 ntt-data-es,急速,採用,1
@@ -14736,9 +14711,6 @@ ntt-docomo,"
 ntt-docomo,"
 
 ",いただける,1
-ntt-docomo,"
-
-",さま,1
 ntt-docomo,"
 
 ",とる,1
@@ -15217,10 +15189,10 @@ ntt-docomo,あんしん,災害,1
 ntt-docomo,あんしん,被災地,1
 ntt-docomo,あんしん,通ずる,1
 ntt-docomo,いただける,ご利用,1
-ntt-docomo,いただける,さま,1
 ntt-docomo,いただける,なし,1
 ntt-docomo,いただける,コンテンツ,1
 ntt-docomo,いただける,サービス,1
+ntt-docomo,いただける,ステークホルダー,1
 ntt-docomo,いただける,レベル,1
 ntt-docomo,いただける,分野,1
 ntt-docomo,いただける,品質,1
@@ -15253,18 +15225,6 @@ ntt-docomo,ご利用,分野,1
 ntt-docomo,ご利用,最大,1
 ntt-docomo,ご利用,業務提携,1
 ntt-docomo,ご利用,追加料金,1
-ntt-docomo,さま,とる,1
-ntt-docomo,さま,ステークホルダー,1
-ntt-docomo,さま,一丸,1
-ntt-docomo,さま,向ける,1
-ntt-docomo,さま,実感,1
-ntt-docomo,さま,導入,1
-ntt-docomo,さま,幸せ,1
-ntt-docomo,さま,改善,1
-ntt-docomo,さま,更なる,1
-ntt-docomo,さま,機能,1
-ntt-docomo,さま,積極的,1
-ntt-docomo,さま,豊か,1
 ntt-docomo,つながり,テクノロジー,1
 ntt-docomo,つながり,ビジョン,1
 ntt-docomo,つながり,世界,1
@@ -15293,6 +15253,7 @@ ntt-docomo,でんき,突破,2
 ntt-docomo,でんき,金融,1
 ntt-docomo,とる,一丸,1
 ntt-docomo,とる,向ける,1
+ntt-docomo,とる,幸せ,1
 ntt-docomo,とる,豊か,1
 ntt-docomo,なし,コンテンツ,1
 ntt-docomo,なし,サービス,2
@@ -15795,7 +15756,7 @@ ntt-docomo,向ける,幸せ,1
 ntt-docomo,向ける,未来,1
 ntt-docomo,向ける,策定,1
 ntt-docomo,向ける,結ぶ,1
-ntt-docomo,向ける,豊か,1
+ntt-docomo,向ける,豊か,2
 ntt-docomo,向ける,通信,1
 ntt-docomo,向ける,金融,1
 ntt-docomo,含む,激しい,1
@@ -15891,6 +15852,7 @@ ntt-docomo,安全,災害,1
 ntt-docomo,安全,被災地,1
 ntt-docomo,安全,通ずる,1
 ntt-docomo,安全性,最新,1
+ntt-docomo,実感,導入,1
 ntt-docomo,実感,改善,1
 ntt-docomo,実感,更なる,1
 ntt-docomo,実感,高める,1
@@ -15993,6 +15955,7 @@ ntt-docomo,支える,活用,1
 ntt-docomo,支える,産業,2
 ntt-docomo,支える,高まる,1
 ntt-docomo,改善,更なる,1
+ntt-docomo,改善,積極的,1
 ntt-docomo,新しい,生む,1
 ntt-docomo,新しい,踊る,1
 ntt-docomo,日本,構想,1
@@ -16009,6 +15972,7 @@ ntt-docomo,時代,立つ,1
 ntt-docomo,暮らし,法人,1
 ntt-docomo,暮らし,豊か,1
 ntt-docomo,暮らし,領域,1
+ntt-docomo,更なる,機能,1
 ntt-docomo,更なる,積極的,1
 ntt-docomo,書き換える,構造,1
 ntt-docomo,書き換える,生成AI,1
@@ -16807,9 +16771,6 @@ ntt-east,"
 ",あふれる,1
 ntt-east,"
 
-",さま,1
-ntt-east,"
-
 ",とる,1
 ntt-east,"
 
@@ -16909,6 +16870,9 @@ ntt-east,"
 ",注ぐ,1
 ntt-east,"
 
+",満ちる,1
+ntt-east,"
+
 ",理解,1
 ntt-east,"
 
@@ -16994,7 +16958,6 @@ ntt-east,あふれる,止める,1
 ntt-east,あふれる,歩み,1
 ntt-east,あふれる,課題解決,1
 ntt-east,あふれる,超える,1
-ntt-east,お見舞い,さま,1
 ntt-east,お見舞い,ビル,1
 ntt-east,お見舞い,八戸,1
 ntt-east,お見舞い,地震,1
@@ -17002,43 +16965,16 @@ ntt-east,お見舞い,東方,1
 ntt-east,お見舞い,被災,1
 ntt-east,お見舞い,鉄塔,1
 ntt-east,お見舞い,青森,1
-ntt-east,さま,とも,1
-ntt-east,さま,とる,1
-ntt-east,さま,みな,1
-ntt-east,さま,ビル,1
-ntt-east,さま,全力,1
-ntt-east,さま,八戸,1
-ntt-east,さま,創造,1
-ntt-east,さま,向ける,1
-ntt-east,さま,地域,1
-ntt-east,さま,地震,1
-ntt-east,さま,尽くす,1
-ntt-east,さま,強い,1
-ntt-east,さま,復興,1
-ntt-east,さま,戻る,1
-ntt-east,さま,挑戦,1
-ntt-east,さま,早い,1
-ntt-east,さま,最大限,1
-ntt-east,さま,東方,1
-ntt-east,さま,止める,1
-ntt-east,さま,歩み,1
-ntt-east,さま,満ちる,1
-ntt-east,さま,発揮,1
-ntt-east,さま,笑顔,1
-ntt-east,さま,被災,1
-ntt-east,さま,課題解決,1
-ntt-east,さま,超える,1
-ntt-east,さま,青森,1
-ntt-east,さま,青森県,1
-ntt-east,さま,願う,1
-ntt-east,さま,飛躍,1
+ntt-east,お見舞い,青森県,1
 ntt-east,とも,みな,1
 ntt-east,とも,創造,1
 ntt-east,とも,地域,1
 ntt-east,とも,希望,1
+ntt-east,とも,最大限,1
 ntt-east,とも,発揮,1
 ntt-east,とも,課題解決,1
 ntt-east,とも,超える,1
+ntt-east,とる,向ける,1
 ntt-east,とる,挑戦,1
 ntt-east,とる,止める,1
 ntt-east,とる,歩み,1
@@ -17054,6 +16990,7 @@ ntt-east,はじめ,現場,1
 ntt-east,はじめ,真摯,1
 ntt-east,はじめ,鉄塔,1
 ntt-east,みな,エンジニアリング,1
+ntt-east,みな,創造,1
 ntt-east,みな,地域,1
 ntt-east,みな,最大限,1
 ntt-east,みな,発揮,1
@@ -17174,6 +17111,7 @@ ntt-east,パーパス,防災,1
 ntt-east,ビル,八戸,1
 ntt-east,ビル,対応,1
 ntt-east,ビル,損傷,1
+ntt-east,ビル,被災,1
 ntt-east,ビル,鉄塔,1
 ntt-east,ビル,青森,1
 ntt-east,マンション,回線,1
@@ -17219,6 +17157,7 @@ ntt-east,全力,地域社会,1
 ntt-east,全力,尽くす,1
 ntt-east,全力,復旧,1
 ntt-east,全力,復興,1
+ntt-east,全力,戻る,1
 ntt-east,全力,持続的,1
 ntt-east,全力,挑む,1
 ntt-east,全力,早い,1
@@ -17226,6 +17165,7 @@ ntt-east,全力,発展,1
 ntt-east,全力,真摯,1
 ntt-east,全力,笑顔,1
 ntt-east,全力,自治体,1
+ntt-east,八戸,地震,1
 ntt-east,八戸,対応,1
 ntt-east,八戸,損傷,1
 ntt-east,八戸,被災,1
@@ -17295,6 +17235,7 @@ ntt-east,地域,活躍,1
 ntt-east,地域,発揮,2
 ntt-east,地域,社員,1
 ntt-east,地域,課題解決,1
+ntt-east,地域,超える,1
 ntt-east,地域社会,情熱,1
 ntt-east,地域社会,技術力,1
 ntt-east,地域社会,持続的,1
@@ -17331,6 +17272,7 @@ ntt-east,対応,損傷,1
 ntt-east,対応,現場,1
 ntt-east,対応,真摯,1
 ntt-east,対応,鉄塔,1
+ntt-east,尽くす,強い,1
 ntt-east,尽くす,復旧,1
 ntt-east,尽くす,復興,1
 ntt-east,尽くす,戻る,1
@@ -17358,6 +17300,7 @@ ntt-east,復旧,真摯,1
 ntt-east,復興,早い,1
 ntt-east,復興,現場,1
 ntt-east,復興,真摯,1
+ntt-east,復興,笑顔,1
 ntt-east,循環,情熱,1
 ntt-east,循環,持つ,1
 ntt-east,循環,防災,1
@@ -17410,6 +17353,7 @@ ntt-east,挑む,続ける,1
 ntt-east,挑む,自治体,1
 ntt-east,挑戦,未来,1
 ntt-east,挑戦,構築,1
+ntt-east,挑戦,止める,1
 ntt-east,挑戦,満ちる,1
 ntt-east,挑戦,祈念,1
 ntt-east,挑戦,素晴らしい,1
@@ -17431,6 +17375,7 @@ ntt-east,日頃,謹む,1
 ntt-east,日頃,賜る,1
 ntt-east,日頃,運営,1
 ntt-east,早い,笑顔,1
+ntt-east,早い,願う,1
 ntt-east,映像,普及,1
 ntt-east,映像,生成AI,1
 ntt-east,映像,行政,1
@@ -17448,6 +17393,7 @@ ntt-east,未来,注ぐ,1
 ntt-east,未来,現場,1
 ntt-east,東方,被災,1
 ntt-east,東方,込める,1
+ntt-east,東方,青森,1
 ntt-east,東方,青森県,1
 ntt-east,果敢,構築,1
 ntt-east,果敢,激しい,1
@@ -17456,6 +17402,7 @@ ntt-east,構築,激しい,1
 ntt-east,構築,自治体,1
 ntt-east,止める,歩み,1
 ntt-east,止める,飛躍,1
+ntt-east,歩み,飛躍,1
 ntt-east,法人,開始,1
 ntt-east,法人,願う,1
 ntt-east,注ぐ,発展,1
@@ -17474,6 +17421,7 @@ ntt-east,理解,社員,1
 ntt-east,理解,賜る,1
 ntt-east,理解,運営,1
 ntt-east,生成AI,視聴,1
+ntt-east,発揮,課題解決,1
 ntt-east,社員,第一線,1
 ntt-east,社員,賜る,1
 ntt-east,社員,込める,1
@@ -18161,7 +18109,6 @@ ntt-west,IT,地域,2
 ntt-west,IT,密着,1
 ntt-west,IT,活力,1
 ntt-west,IT,身近,1
-ntt-west,NTT,さま,1
 ntt-west,NTT,イベント,1
 ntt-west,NTT,コミュニケーション,1
 ntt-west,NTT,パビリオン,1
@@ -18179,7 +18126,7 @@ ntt-west,NTT,未来,1
 ntt-west,NTT,未来像,1
 ntt-west,NTT,歴史,1
 ntt-west,NTT,残る,1
-ntt-west,NTT,発信,1
+ntt-west,NTT,発信,2
 ntt-west,NTT,課題,1
 ntt-west,NTT,象徴的,1
 ntt-west,NTT,鮮明,1
@@ -18209,29 +18156,11 @@ ntt-west,お願い,発展,1
 ntt-west,お願い,益々,1
 ntt-west,お願い,祈る,1
 ntt-west,お願い,賜る,1
-ntt-west,さま,とも,2
-ntt-west,さま,クリエーション,1
-ntt-west,さま,コミュニケーション,1
-ntt-west,さま,パートナー,2
-ntt-west,さま,体感,1
-ntt-west,さま,全体,1
-ntt-west,さま,創造,2
-ntt-west,さま,地域社会,1
-ntt-west,さま,多く,1
-ntt-west,さま,挑戦,2
-ntt-west,さま,未来,1
-ntt-west,さま,未来像,1
-ntt-west,さま,発信,1
-ntt-west,さま,発展,1
-ntt-west,さま,益々,1
-ntt-west,さま,社員,1
-ntt-west,さま,祈る,1
-ntt-west,さま,続ける,1
-ntt-west,さま,賜る,1
-ntt-west,とも,パートナー,1
+ntt-west,とも,パートナー,2
 ntt-west,とも,創造,1
 ntt-west,とも,地域社会,1
 ntt-west,とも,挑戦,1
+ntt-west,とも,益々,1
 ntt-west,とも,社員,1
 ntt-west,とも,続ける,1
 ntt-west,はじめ,デジタル,1
@@ -18288,6 +18217,7 @@ ntt-west,クリエーション,パートナー,2
 ntt-west,クリエーション,共創,1
 ntt-west,クリエーション,地域社会,1
 ntt-west,クリエーション,未来,1
+ntt-west,クリエーション,社員,1
 ntt-west,クリエーション,豊か,1
 ntt-west,クロス,サービス,1
 ntt-west,クロス,フレッツ,1
@@ -18299,6 +18229,7 @@ ntt-west,コミュニケーション,パビリオン,1
 ntt-west,コミュニケーション,多く,1
 ntt-west,コミュニケーション,実証,1
 ntt-west,コミュニケーション,展開,1
+ntt-west,コミュニケーション,未来,1
 ntt-west,コミュニケーション,未来像,1
 ntt-west,コミュニケーション,発信,1
 ntt-west,サービス,スタート,1
@@ -18370,6 +18301,7 @@ ntt-west,パートナー,創造,1
 ntt-west,パートナー,同じ,1
 ntt-west,パートナー,地域社会,2
 ntt-west,パートナー,想い,1
+ntt-west,パートナー,挑戦,1
 ntt-west,パートナー,未来,1
 ntt-west,パートナー,業種,1
 ntt-west,パートナー,生み出す,1
@@ -18440,6 +18372,7 @@ ntt-west,体感,全体,1
 ntt-west,体感,刷新,1
 ntt-west,体感,多く,1
 ntt-west,体感,未来,1
+ntt-west,体感,未来像,1
 ntt-west,体感,発信,1
 ntt-west,体験,文化,1
 ntt-west,体験,活用,1
@@ -18471,6 +18404,7 @@ ntt-west,入れる,活用,1
 ntt-west,入れる,経済,1
 ntt-west,入れる,規模,1
 ntt-west,全体,刷新,1
+ntt-west,全体,多く,1
 ntt-west,全体,新生,1
 ntt-west,全体,未来,1
 ntt-west,共創,同じ,1
@@ -18505,7 +18439,9 @@ ntt-west,刷新,株式会社,1
 ntt-west,創出,取り組み,1
 ntt-west,創出,向ける,1
 ntt-west,創出,魅力,1
+ntt-west,創造,地域社会,1
 ntt-west,創造,挑戦,1
+ntt-west,創造,発展,1
 ntt-west,創造,益々,1
 ntt-west,創造,社員,1
 ntt-west,創造,続ける,1
@@ -18663,6 +18599,7 @@ ntt-west,技術,豊か,1
 ntt-west,挑戦,発展,1
 ntt-west,挑戦,益々,1
 ntt-west,挑戦,社員,1
+ntt-west,挑戦,祈る,1
 ntt-west,挑戦,続ける,1
 ntt-west,支える,通信,1
 ntt-west,支える,高品質,1
@@ -18747,6 +18684,7 @@ ntt-west,祈る,賜る,1
 ntt-west,祖業,通信,1
 ntt-west,積極,自己,1
 ntt-west,経済,規模,1
+ntt-west,続ける,賜る,1
 ntt-west,維持,自身,1
 ntt-west,維持,通信,1
 ntt-west,自己,醸成,1

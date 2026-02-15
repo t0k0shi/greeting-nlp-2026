@@ -259,7 +259,6 @@ ntt-docomo,機能,機能,NOUN
 ntt-docomo,積極的,積極的,ADJ
 ntt-docomo,導入,導入,VERB
 ntt-docomo,ステークホルダー,ステークホルダー,NOUN
-ntt-docomo,さま,さま,NOUN
 ntt-docomo,更なる,更なる,ADJ
 ntt-docomo,改善,改善,NOUN
 ntt-docomo,実感,実感,VERB
@@ -546,7 +545,6 @@ ntt-docomo,"
 ","
 
 ",PROPN
-ntt-docomo,さま,さま,NOUN
 ntt-docomo,とっ,とる,VERB
 ntt-docomo,豊か,豊か,ADJ
 ntt-docomo-business,謹ん,謹む,NOUN
@@ -1026,7 +1024,6 @@ ntt-east,青森県,青森県,PROPN
 ntt-east,東方,東方,NOUN
 ntt-east,地震,地震,NOUN
 ntt-east,被災,被災,VERB
-ntt-east,さま,さま,NOUN
 ntt-east,お見舞い,お見舞い,VERB
 ntt-east,青森,青森,PROPN
 ntt-east,八戸,八戸,PROPN
@@ -1043,7 +1040,6 @@ ntt-east,復興,復興,NOUN
 ntt-east,全力,全力,NOUN
 ntt-east,尽くし,尽くす,VERB
 ntt-east,早く,早い,ADJ
-ntt-east,さま,さま,NOUN
 ntt-east,笑顔,笑顔,NOUN
 ntt-east,戻る,戻る,VERB
 ntt-east,強く,強い,ADJ
@@ -1162,7 +1158,6 @@ ntt-east,最大限,最大限,NOUN
 ntt-east,発揮,発揮,VERB
 ntt-east,地域,地域,NOUN
 ntt-east,みな,みな,NOUN
-ntt-east,さま,さま,NOUN
 ntt-east,とも,とも,NOUN
 ntt-east,課題解決,課題解決,NOUN
 ntt-east,超え,超える,VERB
@@ -1177,7 +1172,6 @@ ntt-east,"
 ","
 
 ",PROPN
-ntt-east,さま,さま,NOUN
 ntt-east,とっ,とる,VERB
 ntt-east,飛躍,飛躍,NOUN
 ntt-east,挑戦,挑戦,NOUN
@@ -1260,7 +1254,6 @@ ntt-west,コミュニケーション,コミュニケーション,NOUN
 ntt-west,未来像,未来像,NOUN
 ntt-west,発信,発信,VERB
 ntt-west,多く,多く,NOUN
-ntt-west,さま,さま,NOUN
 ntt-west,未来,未来,NOUN
 ntt-west,体感,体感,VERB
 ntt-west,NTT,NTT,PROPN
@@ -1368,13 +1361,11 @@ ntt-west,クリエーション,クリエーション,NOUN
 ntt-west,パートナー,パートナー,NOUN
 ntt-west,地域社会,地域社会,NOUN
 ntt-west,パートナー,パートナー,NOUN
-ntt-west,さま,さま,NOUN
 ntt-west,社員,社員,NOUN
 ntt-west,とも,とも,NOUN
 ntt-west,創造,創造,NOUN
 ntt-west,挑戦,挑戦,NOUN
 ntt-west,続け,続ける,VERB
-ntt-west,さま,さま,NOUN
 ntt-west,益々,益々,NOUN
 ntt-west,発展,発展,NOUN
 ntt-west,祈り,祈る,VERB
@@ -1388,7 +1379,6 @@ ntt-data-es,"
 
 ",NOUN
 ntt-data-es,年中,年中,NOUN
-ntt-data-es,さま,さま,NOUN
 ntt-data-es,並々,並々,NOUN
 ntt-data-es,厚情,厚情,NOUN
 ntt-data-es,賜り,賜る,VERB
@@ -1590,7 +1580,6 @@ ntt-data-es,"
 
 ",NOUN
 ntt-data-es,最後,最後,NOUN
-ntt-data-es,さま,さま,NOUN
 ntt-data-es,とっ,とる,VERB
 ntt-data-es,希望,希望,NOUN
 ntt-data-es,満ち,満ちる,VERB
@@ -1733,7 +1722,6 @@ ntt-data-at,"
 ",NOUN
 ntt-data-at,新しい,新しい,ADJ
 ntt-data-at,みな,みな,NOUN
-ntt-data-at,さま,さま,NOUN
 ntt-data-at,未来,未来,NOUN
 ntt-data-at,向かっ,向かう,VERB
 ntt-data-at,踏み出す,踏み出す,VERB
@@ -3968,7 +3956,6 @@ familymart,迎え,迎える,VERB
 familymart,ファミリーマート,ファミリーマート,PROPN
 familymart,関わる,関わる,VERB
 familymart,すべて,すべて,NOUN
-familymart,さま,さま,NOUN
 familymart,とも,とも,NOUN
 familymart,喜び,喜び,NOUN
 familymart,分かち合い,分かち合う,VERB
@@ -3981,12 +3968,9 @@ familymart,日頃,日頃,NOUN
 familymart,店舗,店舗,NOUN
 familymart,支え,支える,VERB
 familymart,加盟店,加盟店,NOUN
-familymart,さま,さま,NOUN
 familymart,取引先,取引先,NOUN
-familymart,さま,さま,NOUN
 familymart,地域社会,地域社会,NOUN
 familymart,関係者,関係者,NOUN
-familymart,さま,さま,NOUN
 familymart,世界中,世界中,NOUN
 familymart,深く,深い,ADJ
 familymart,感謝,感謝,VERB
@@ -4026,7 +4010,6 @@ familymart,"
 familymart,話題,話題,NOUN
 familymart,づくり,づくり,NOUN
 familymart,加盟店,加盟店,NOUN
-familymart,さま,さま,NOUN
 familymart,現場,現場,NOUN
 familymart,流す,流す,VERB
 familymart,社員,社員,NOUN
@@ -4149,7 +4132,6 @@ familymart,成功,成功,NOUN
 familymart,体験,体験,NOUN
 familymart,乗り越え,乗り越える,VERB
 familymart,加盟店,加盟店,NOUN
-familymart,さま,さま,NOUN
 familymart,一丸,一丸,NOUN
 familymart,全力,全力,NOUN
 familymart,駆け抜ける,駆け抜ける,VERB
@@ -5320,7 +5302,6 @@ mitsui-es,超える,超える,VERB
 mitsui-es,水準,水準,NOUN
 mitsui-es,上昇,上昇,VERB
 mitsui-es,ステークホルダー,ステークホルダー,NOUN
-mitsui-es,さま,さま,NOUN
 mitsui-es,持続的,持続的,NOUN
 mitsui-es,フェーズ,フェーズ,NOUN
 mitsui-es,入っ,入る,VERB
@@ -5353,7 +5334,6 @@ mitsui-es,掲げ,掲げる,VERB
 mitsui-es,計画,計画,NOUN
 mitsui-es,達成,達成,NOUN
 mitsui-es,ステークホルダー,ステークホルダー,NOUN
-mitsui-es,さま,さま,NOUN
 mitsui-es,対する,対する,VERB
 mitsui-es,最低限,最低限,NOUN
 mitsui-es,約束,約束,NOUN
@@ -5399,7 +5379,6 @@ mitsui-es,願い,願う,VERB
 mitsui-es,三方,三方,PROPN
 mitsui-es,良し,良し,NOUN
 mitsui-es,ステークホルダー,ステークホルダー,NOUN
-mitsui-es,さま,さま,NOUN
 mitsui-es,とっ,とる,VERB
 mitsui-es,存在,存在,NOUN
 mitsui-es,続ける,続ける,VERB

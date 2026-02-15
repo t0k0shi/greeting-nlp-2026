@@ -1,5 +1,10 @@
 company_id,surface,lemma,pos
 ntt-holding,謹ん,謹む,NOUN
+ntt-holding,"
+
+","
+
+",PROPN
 ntt-holding,光電,光電,NOUN
 ntt-holding,融合,融合,NOUN
 ntt-holding,元年,元年,NOUN
@@ -13,7 +18,10 @@ ntt-holding,大きな,大きな,ADJ
 ntt-holding,チャレンジ,チャレンジ,NOUN
 ntt-holding,本格的,本格的,ADJ
 ntt-holding,スタート,スタート,VERB
+ntt-holding,大阪,大阪,PROPN
+ntt-holding,関西,関西,PROPN
 ntt-holding,万博,万博,NOUN
+ntt-holding,お披露目,お披露目,PROPN
 ntt-holding,IOWN,IOWN,NOUN
 ntt-holding,光電,光電,NOUN
 ntt-holding,融合,融合,NOUN
@@ -45,6 +53,7 @@ ntt-holding,AI,AI,NOUN
 ntt-holding,ビジネス,ビジネス,NOUN
 ntt-holding,大きく,大きい,ADJ
 ntt-holding,飛躍,飛躍,VERB
+ntt-holding,NTT,NTT,PROPN
 ntt-holding,全体,全体,NOUN
 ntt-holding,売上,売上,NOUN
 ntt-holding,上回る,上回る,VERB
@@ -75,6 +84,7 @@ ntt-holding,"
 
 ",NOUN
 ntt-holding,社名,社名,NOUN
+ntt-holding,NTT,NTT,PROPN
 ntt-holding,株式会社,株式会社,NOUN
 ntt-holding,改め,改める,VERB
 ntt-holding,踏み出し,踏み出す,VERB
@@ -83,6 +93,7 @@ ntt-holding,民営化,民営化,NOUN
 ntt-holding,策定,策定,VERB
 ntt-holding,Corporate Identity,corporate identity,NOUN
 ntt-holding,見直し,見直す,VERB
+ntt-holding,NTT,NTT,PROPN
 ntt-holding,Group,Group,NOUN
 ntt-holding,Core,Core,NOUN
 ntt-holding,制定,制定,NOUN
@@ -113,6 +124,7 @@ ntt-holding,"
 ntt-holding,世界,世界,NOUN
 ntt-holding,社員,社員,NOUN
 ntt-holding,とも,とも,NOUN
+ntt-holding,NTT,NTT,PROPN
 ntt-holding,Group,Group,NOUN
 ntt-holding,Core,Core,NOUN
 ntt-holding,据え,据える,VERB
@@ -141,6 +153,7 @@ ntt-docomo,急速,急速,ADJ
 ntt-docomo,書き換え,書き換える,VERB
 ntt-docomo,時代,時代,NOUN
 ntt-docomo,立っ,立つ,VERB
+ntt-docomo,生成AI,生成AI,PROPN
 ntt-docomo,はじめ,はじめ,NOUN
 ntt-docomo,技術革新,技術革新,NOUN
 ntt-docomo,産業,産業,NOUN
@@ -148,9 +161,9 @@ ntt-docomo,構造,構造,NOUN
 ntt-docomo,大きな,大きな,ADJ
 ntt-docomo,変化,変化,NOUN
 ntt-docomo,もたらし,もたらす,VERB
+ntt-docomo,NTTドコモ,NTTドコモ,PROPN
 ntt-docomo,取り巻く,取り巻く,VERB
 ntt-docomo,環境,環境,NOUN
-ntt-docomo,ない,ない,ADJ
 ntt-docomo,スピード,スピード,NOUN
 ntt-docomo,変化,変化,VERB
 ntt-docomo,コンシューマ,コンシューマ,NOUN
@@ -189,6 +202,7 @@ ntt-docomo,"
 ",NOUN
 ntt-docomo,環境,環境,NOUN
 ntt-docomo,もと,もと,NOUN
+ntt-docomo,NTTドコモ,NTTドコモ,PROPN
 ntt-docomo,コーポレートアイデンティティ,コーポレートアイデンティティ,NOUN
 ntt-docomo,策定,策定,VERB
 ntt-docomo,スタート,スタート,NOUN
@@ -196,8 +210,12 @@ ntt-docomo,切り,切る,VERB
 ntt-docomo,向け,向ける,VERB
 ntt-docomo,位置,位置,VERB
 ntt-docomo,づけ,づける,VERB
+ntt-docomo,NTTドコモ,NTTドコモ,PROPN
+ntt-docomo,NTTドコモ,NTTドコモ,PROPN
 ntt-docomo,ビジネス,ビジネス,NOUN
+ntt-docomo,NTTドコモ,NTTドコモ,PROPN
 ntt-docomo,グローバル,グローバル,ADJ
+ntt-docomo,NTTドコモ,NTTドコモ,PROPN
 ntt-docomo,ソリューションズ,ソリューションズ,NOUN
 ntt-docomo,一丸,一丸,NOUN
 ntt-docomo,起点,起点,NOUN
@@ -254,6 +272,7 @@ ntt-docomo,"
 ","
 
 ",NOUN
+ntt-docomo,災害時,災害時,PROPN
 ntt-docomo,通信,通信,NOUN
 ntt-docomo,確保,確保,NOUN
 ntt-docomo,生命線,生命線,ADJ
@@ -283,20 +302,29 @@ ntt-docomo,顧客,顧客,NOUN
 ntt-docomo,基盤,基盤,NOUN
 ntt-docomo,マーケティング,マーケティング,NOUN
 ntt-docomo,一環,一環,NOUN
+ntt-docomo,ドコモ,ドコモ,PROPN
 ntt-docomo,MAX,MAX,NOUN
 ntt-docomo,開始,開始,VERB
 ntt-docomo,多様化,多様化,NOUN
 ntt-docomo,ニーズ,ニーズ,NOUN
 ntt-docomo,あわせ,あわせる,VERB
+ntt-docomo,"
+
+","
+
+",PROPN
 ntt-docomo,特典,特典,NOUN
 ntt-docomo,対象,対象,NOUN
 ntt-docomo,サービス,サービス,NOUN
+ntt-docomo,Lemino,lemino,PROPN
 ntt-docomo,アニメ,アニメ,NOUN
 ntt-docomo,ストア,ストア,NOUN
 ntt-docomo,加え,加える,VERB
 ntt-docomo,DAZN,DAZN,NOUN
 ntt-docomo,for,for,NOUN
+ntt-docomo,docomo,DOCOMO,PROPN
 ntt-docomo,NBA,NBA,NOUN
+ntt-docomo,docomo,DOCOMO,PROPN
 ntt-docomo,合わせ,合わせる,VERB
 ntt-docomo,サービス,サービス,NOUN
 ntt-docomo,最大,最大,NOUN
@@ -310,12 +338,14 @@ ntt-docomo,分野,分野,NOUN
 ntt-docomo,業務提携,業務提携,VERB
 ntt-docomo,契約,契約,VERB
 ntt-docomo,株式会社,株式会社,NOUN
+ntt-docomo,WOWOW,WOWOW,PROPN
 ntt-docomo,音楽,音楽,NOUN
 ntt-docomo,ライブ,ライブ,NOUN
 ntt-docomo,コンテンツ,コンテンツ,NOUN
 ntt-docomo,超大作,超大作,NOUN
 ntt-docomo,オリジナル,オリジナル,NOUN
 ntt-docomo,ドラマ,ドラマ,NOUN
+ntt-docomo,Lemino,lemino,PROPN
 ntt-docomo,加わる,加わる,VERB
 ntt-docomo,サービス,サービス,NOUN
 ntt-docomo,拡充,拡充,NOUN
@@ -330,10 +360,12 @@ ntt-docomo,スマート,スマート,ADJ
 ntt-docomo,ライフ,ライフ,NOUN
 ntt-docomo,領域,領域,NOUN
 ntt-docomo,カード,カード,NOUN
+ntt-docomo,PLATINUM,platinum,PROPN
 ntt-docomo,開始,開始,NOUN
 ntt-docomo,か月,か月,NOUN
 ntt-docomo,契約,契約,NOUN
 ntt-docomo,突破,突破,NOUN
+ntt-docomo,ドコモ,ドコモ,PROPN
 ntt-docomo,でんき,でんき,NOUN
 ntt-docomo,契約,契約,NOUN
 ntt-docomo,突破,突破,VERB
@@ -344,6 +376,7 @@ ntt-docomo,分野,分野,NOUN
 ntt-docomo,着実,着実,ADJ
 ntt-docomo,広がり,広がる,VERB
 ntt-docomo,ポイント,ポイント,NOUN
+ntt-docomo,ドコモ,ドコモ,PROPN
 ntt-docomo,データ,データ,NOUN
 ntt-docomo,活用,活用,VERB
 ntt-docomo,マーケティング,マーケティング,NOUN
@@ -366,12 +399,17 @@ ntt-docomo,"
 ntt-docomo,昨年末,昨年末,NOUN
 ntt-docomo,社名,社名,NOUN
 ntt-docomo,発表,発表,VERB
+ntt-docomo,ドコモ,ドコモ,PROPN
+ntt-docomo,SMTB,SMTB,PROPN
 ntt-docomo,ネット銀行,ネット銀行,NOUN
 ntt-docomo,始動,始動,VERB
+ntt-docomo,ドコモ,ドコモ,PROPN
 ntt-docomo,もつ,もつ,NOUN
 ntt-docomo,超す,超す,VERB
 ntt-docomo,会員,会員,NOUN
 ntt-docomo,基盤,基盤,NOUN
+ntt-docomo,ドコモ,ドコモ,PROPN
+ntt-docomo,SMTB,SMTB,PROPN
 ntt-docomo,ネット銀行,ネット銀行,NOUN
 ntt-docomo,最新,最新,NOUN
 ntt-docomo,テクノロジー,テクノロジー,NOUN
@@ -380,6 +418,7 @@ ntt-docomo,安全性,安全性,NOUN
 ntt-docomo,両立,両立,VERB
 ntt-docomo,UI,UI,NOUN
 ntt-docomo,UX,UX,NOUN
+ntt-docomo,三井住友信託銀行,三井住友信託銀行,PROPN
 ntt-docomo,高い,高い,ADJ
 ntt-docomo,専門性,専門性,NOUN
 ntt-docomo,寄り添う,寄り添う,NOUN
@@ -387,11 +426,12 @@ ntt-docomo,掛け合わせ,掛け合わせる,VERB
 ntt-docomo,くらし,くらし,NOUN
 ntt-docomo,金融,金融,NOUN
 ntt-docomo,境目,境目,NOUN
-ntt-docomo,ない,ない,ADJ
 ntt-docomo,未来,未来,NOUN
 ntt-docomo,向け,向ける,VERB
 ntt-docomo,サービス,サービス,NOUN
 ntt-docomo,NEOBANK,neobank,NOUN
+ntt-docomo,ドコモ,ドコモ,PROPN
+ntt-docomo,SMTB,SMTB,PROPN
 ntt-docomo,ネット銀行,ネット銀行,NOUN
 ntt-docomo,期待,期待,VERB
 ntt-docomo,"
@@ -414,6 +454,7 @@ ntt-docomo,"
 ",NOUN
 ntt-docomo,法人,法人,NOUN
 ntt-docomo,AI,AI,NOUN
+ntt-docomo,IoT,IoT,PROPN
 ntt-docomo,デジタル,デジタル,NOUN
 ntt-docomo,BPO,BPO,NOUN
 ntt-docomo,地域,地域,NOUN
@@ -422,6 +463,7 @@ ntt-docomo,DX,DX,NOUN
 ntt-docomo,言っ,言う,VERB
 ntt-docomo,重点,重点,NOUN
 ntt-docomo,領域,領域,NOUN
+ntt-docomo,NTTドコモ,NTTドコモ,PROPN
 ntt-docomo,牽引,牽引,VERB
 ntt-docomo,引き続き,引き続く,VERB
 ntt-docomo,AI,AI,NOUN
@@ -429,6 +471,7 @@ ntt-docomo,Centric,centric,NOUN
 ntt-docomo,ICT,ICT,NOUN
 ntt-docomo,プラットフォーム,プラットフォーム,NOUN
 ntt-docomo,構想,構想,NOUN
+ntt-docomo,日本,日本,PROPN
 ntt-docomo,産業,産業,NOUN
 ntt-docomo,地域,地域,NOUN
 ntt-docomo,DX,DX,NOUN
@@ -442,6 +485,7 @@ ntt-docomo,"
 
 ",NOUN
 ntt-docomo,AI,AI,NOUN
+ntt-docomo,NTTドコモ,NTTドコモ,PROPN
 ntt-docomo,全体,全体,NOUN
 ntt-docomo,進化,進化,NOUN
 ntt-docomo,加速,加速,VERB
@@ -451,7 +495,6 @@ ntt-docomo,"
 
 ",NOUN
 ntt-docomo,困っ,困る,VERB
-ntt-docomo,とき,とき,NOUN
 ntt-docomo,寄り添い,寄り添う,VERB
 ntt-docomo,答える,答える,VERB
 ntt-docomo,AI,AI,NOUN
@@ -463,6 +506,7 @@ ntt-docomo,法人,法人,NOUN
 ntt-docomo,業務,業務,NOUN
 ntt-docomo,自律的,自律的,ADJ
 ntt-docomo,AI,AI,NOUN
+ntt-docomo,NTTドコモ,NTTドコモ,PROPN
 ntt-docomo,サービス,サービス,NOUN
 ntt-docomo,AI,AI,NOUN
 ntt-docomo,当たり前,当たり前,ADJ
@@ -480,6 +524,7 @@ ntt-docomo,"
 ","
 
 ",NOUN
+ntt-docomo,NTTドコモ,NTTドコモ,PROPN
 ntt-docomo,起点,起点,NOUN
 ntt-docomo,運営,運営,NOUN
 ntt-docomo,もと,もと,NOUN
@@ -496,6 +541,11 @@ ntt-docomo,豊か,豊か,ADJ
 ntt-docomo,幸せ,幸せ,ADJ
 ntt-docomo,向け,向ける,VERB
 ntt-docomo,一丸,一丸,NOUN
+ntt-docomo,"
+
+","
+
+",PROPN
 ntt-docomo,さま,さま,NOUN
 ntt-docomo,とっ,とる,VERB
 ntt-docomo,豊か,豊か,ADJ
@@ -511,16 +561,27 @@ ntt-docomo-business,"
 ","
 
 ",NOUN
+ntt-docomo-business,NTT,NTT,PROPN
 ntt-docomo-business,全体,全体,NOUN
 ntt-docomo-business,CI,CI,NOUN
 ntt-docomo-business,コーポレートアイデンティティ,コーポレートアイデンティティ,NOUN
 ntt-docomo-business,刷新,刷新,VERB
 ntt-docomo-business,社名,社名,NOUN
+ntt-docomo-business,NTT,NTT,PROPN
+ntt-docomo-business,コミュニケーションズ,コミュニケーションズ,PROPN
+ntt-docomo-business,NTTドコモ,NTTドコモ,PROPN
 ntt-docomo-business,ビジネス,ビジネス,NOUN
 ntt-docomo-business,変更,変更,VERB
 ntt-docomo-business,チャレンジ,チャレンジ,NOUN
 ntt-docomo-business,ステージ,ステージ,NOUN
 ntt-docomo-business,入り,入る,VERB
+ntt-docomo-business,"
+
+","
+
+",PROPN
+ntt-docomo-business,NTT,NTT,PROPN
+ntt-docomo-business,コミュニケーションズ,コミュニケーションズ,PROPN
 ntt-docomo-business,設立,設立,NOUN
 ntt-docomo-business,チャレンジ,チャレンジ,NOUN
 ntt-docomo-business,重ね,重ねる,VERB
@@ -544,6 +605,7 @@ ntt-docomo-business,"
 ","
 
 ",NOUN
+ntt-docomo-business,日本,日本,PROPN
 ntt-docomo-business,少子高齢化,少子高齢化,NOUN
 ntt-docomo-business,都市,都市,NOUN
 ntt-docomo-business,地方,地方,NOUN
@@ -588,6 +650,11 @@ ntt-docomo-business,自律,自律,NOUN
 ntt-docomo-business,分散,分散,NOUN
 ntt-docomo-business,協調,協調,NOUN
 ntt-docomo-business,進展,進展,VERB
+ntt-docomo-business,"
+
+","
+
+",PROPN
 ntt-docomo-business,自律,自律,NOUN
 ntt-docomo-business,分散,分散,NOUN
 ntt-docomo-business,協調,協調,NOUN
@@ -611,6 +678,7 @@ ntt-docomo-business,安全,安全,NOUN
 ntt-docomo-business,リーズナブル,リーズナブル,NOUN
 ntt-docomo-business,ニーズ,ニーズ,NOUN
 ntt-docomo-business,応え,応える,VERB
+ntt-docomo-business,NTT,NTT,PROPN
 ntt-docomo-business,最先端技術,最先端技術,NOUN
 ntt-docomo-business,結集,結集,VERB
 ntt-docomo-business,IOWN,IOWN,NOUN
@@ -619,6 +687,11 @@ ntt-docomo-business,テクノロジー,テクノロジー,NOUN
 ntt-docomo-business,進化,進化,NOUN
 ntt-docomo-business,合わせ,合わせる,VERB
 ntt-docomo-business,発展,発展,VERB
+ntt-docomo-business,"
+
+","
+
+",PROPN
 ntt-docomo-business,AI,AI,NOUN
 ntt-docomo-business,Centric,centric,NOUN
 ntt-docomo-business,ICT,ICT,NOUN
@@ -630,6 +703,7 @@ ntt-docomo-business,DX,DX,NOUN
 ntt-docomo-business,ソリューション,ソリューション,NOUN
 ntt-docomo-business,支える,支える,VERB
 ntt-docomo-business,AI,AI,NOUN
+ntt-docomo-business,IoT,IoT,PROPN
 ntt-docomo-business,デジタル,デジタル,NOUN
 ntt-docomo-business,BPO,BPO,NOUN
 ntt-docomo-business,加え,加える,VERB
@@ -655,6 +729,8 @@ ntt-docomo-business,支える,支える,VERB
 ntt-docomo-business,産業,産業,NOUN
 ntt-docomo-business,地域,地域,NOUN
 ntt-docomo-business,DX,DX,NOUN
+ntt-docomo-business,プラット,プラット,PROPN
+ntt-docomo-business,フォーマー,フォーマー,PROPN
 ntt-docomo-business,驚き,驚き,NOUN
 ntt-docomo-business,感動,感動,NOUN
 ntt-docomo-business,届け,届ける,VERB
@@ -671,11 +747,18 @@ ntt-docomo-business,鞭撻,鞭撻,VERB
 ntt-docomo-business,お願い,お願い,VERB
 ntt-data,あたり,あたる,VERB
 ntt-data,謹ん,謹む,VERB
+ntt-data,"
+
+","
+
+",PROPN
 ntt-data,とっ,とる,VERB
 ntt-data,大きな,大きな,ADJ
 ntt-data,転換点,転換点,NOUN
 ntt-data,同年,同年,NOUN
 ntt-data,株式会社,株式会社,NOUN
+ntt-data,NTTデータグループ,NTTデータグループ,PROPN
+ntt-data,NTT,NTT,PROPN
 ntt-data,株式会社,株式会社,NOUN
 ntt-data,よる,よる,VERB
 ntt-data,公開,公開,NOUN
@@ -686,6 +769,7 @@ ntt-data,もっ,もつ,VERB
 ntt-data,完全,完全,ADJ
 ntt-data,子会社,子会社,NOUN
 ntt-data,より,よる,VERB
+ntt-data,NTT,NTT,PROPN
 ntt-data,日本国内,日本国内,NOUN
 ntt-data,グローバル,グローバル,ADJ
 ntt-data,ビジネス,ビジネス,NOUN
@@ -735,9 +819,11 @@ ntt-data,持続的,持続的,ADJ
 ntt-data,考え方,考え方,NOUN
 ntt-data,明確,明確,ADJ
 ntt-data,示し,示す,VERB
+ntt-data,NTT,NTT,PROPN
 ntt-data,CI,CI,NOUN
 ntt-data,コーポレートアイデンティティ,コーポレートアイデンティティ,NOUN
 ntt-data,合わせ,合わせる,VERB
+ntt-data,NTTデータグループ,NTTデータグループ,PROPN
 ntt-data,コーポレートロゴ,コーポレートロゴ,NOUN
 ntt-data,刷新,刷新,VERB
 ntt-data,一体,一体,NOUN
@@ -776,13 +862,16 @@ ntt-data,"
 ","
 
 ",NOUN
+ntt-data,生成AI,生成AI,PROPN
 ntt-data,実用化,実用化,NOUN
 ntt-data,本格的,本格的,ADJ
 ntt-data,進み,進む,VERB
 ntt-data,仕組み,仕組み,NOUN
 ntt-data,定義,定義,VERB
+ntt-data,NTTデータグループ,NTTデータグループ,PROPN
 ntt-data,AI,AI,NOUN
 ntt-data,時代,時代,NOUN
+ntt-data,Quality,Quality,PROPN
 ntt-data,Growth,growth,NOUN
 ntt-data,伴っ,伴う,VERB
 ntt-data,掲げ,掲げる,VERB
@@ -795,6 +884,7 @@ ntt-data,"
 
 ",NOUN
 ntt-data,AI,AI,NOUN
+ntt-data,empowered,empowered,PROPN
 ntt-data,New,New,NOUN
 ntt-data,Value,Value,NOUN
 ntt-data,Productivity,productivity,NOUN
@@ -818,6 +908,11 @@ ntt-data,通じ,通ずる,VERB
 ntt-data,経営,経営,NOUN
 ntt-data,高める,高める,VERB
 ntt-data,取り組み,取り組み,NOUN
+ntt-data,"
+
+","
+
+",PROPN
 ntt-data,Next,Next,NOUN
 ntt-data,Gen,GEN,NOUN
 ntt-data,Infrastructure,infrastructure,NOUN
@@ -832,6 +927,7 @@ ntt-data,技術,技術,NOUN
 ntt-data,クラウド,クラウド,NOUN
 ntt-data,技術,技術,NOUN
 ntt-data,掛け合わせ,掛け合わせる,VERB
+ntt-data,NTTデータグループ,NTTデータグループ,PROPN
 ntt-data,総合力,総合力,NOUN
 ntt-data,生かし,生かす,VERB
 ntt-data,次世代,次世代,NOUN
@@ -855,6 +951,7 @@ ntt-data,"
 ","
 
 ",NOUN
+ntt-data,米国,米国,PROPN
 ntt-data,シリコンバレー,シリコンバレー,NOUN
 ntt-data,AI,AI,NOUN
 ntt-data,ネイティブ,ネイティブ,ADJ
@@ -874,6 +971,7 @@ ntt-data,テクノロジー,テクノロジー,NOUN
 ntt-data,スタートアップ,スタートアップ,NOUN
 ntt-data,連携,連携,NOUN
 ntt-data,AI,AI,NOUN
+ntt-data,empowered,empowered,PROPN
 ntt-data,New,New,NOUN
 ntt-data,Value,Value,NOUN
 ntt-data,Productivity,productivity,NOUN
@@ -909,6 +1007,7 @@ ntt-east,"
 
 ",NOUN
 ntt-east,日頃,日頃,NOUN
+ntt-east,NTT東日本,NTT東日本,PROPN
 ntt-east,運営,運営,NOUN
 ntt-east,理解,理解,NOUN
 ntt-east,賜り,賜る,VERB
@@ -923,11 +1022,14 @@ ntt-east,"
 ","
 
 ",NOUN
+ntt-east,青森県,青森県,PROPN
 ntt-east,東方,東方,NOUN
 ntt-east,地震,地震,NOUN
 ntt-east,被災,被災,VERB
 ntt-east,さま,さま,NOUN
 ntt-east,お見舞い,お見舞い,VERB
+ntt-east,青森,青森,PROPN
+ntt-east,八戸,八戸,PROPN
 ntt-east,ビル,ビル,NOUN
 ntt-east,鉄塔,鉄塔,NOUN
 ntt-east,損傷,損傷,NOUN
@@ -1010,6 +1112,7 @@ ntt-east,クラウド化,クラウド化,NOUN
 ntt-east,個人,個人,NOUN
 ntt-east,映像,映像,NOUN
 ntt-east,視聴,視聴,NOUN
+ntt-east,生成AI,生成AI,PROPN
 ntt-east,急速,急速,ADJ
 ntt-east,普及,普及,NOUN
 ntt-east,変化,変化,NOUN
@@ -1035,6 +1138,12 @@ ntt-east,情熱,情熱,NOUN
 ntt-east,技術力,技術力,NOUN
 ntt-east,惜しみなく,惜しみない,VERB
 ntt-east,注ぎ,注ぐ,VERB
+ntt-east,"
+
+","
+
+",PROPN
+ntt-east,NTT東日本,NTT東日本,PROPN
 ntt-east,地域,地域,NOUN
 ntt-east,未来,未来,NOUN
 ntt-east,支える,支える,VERB
@@ -1063,6 +1172,11 @@ ntt-east,あふれる,あふれる,VERB
 ntt-east,向け,向ける,VERB
 ntt-east,歩み,歩み,NOUN
 ntt-east,止め,止める,VERB
+ntt-east,"
+
+","
+
+",PROPN
 ntt-east,さま,さま,NOUN
 ntt-east,とっ,とる,VERB
 ntt-east,飛躍,飛躍,NOUN
@@ -1074,6 +1188,7 @@ ntt-west,謹ん,謹む,NOUN
 ntt-west,新春,新春,NOUN
 ntt-west,慶び,慶び,NOUN
 ntt-west,平素,平素,NOUN
+ntt-west,NTT西日本,NTT西日本,PROPN
 ntt-west,運営,運営,NOUN
 ntt-west,格別,格別,NOUN
 ntt-west,理解,理解,NOUN
@@ -1112,10 +1227,18 @@ ntt-west,影響,影響,NOUN
 ntt-west,及ぼす,及ぼす,VERB
 ntt-west,課題,課題,NOUN
 ntt-west,鮮明,鮮明,ADJ
+ntt-west,"
+
+","
+
+",PROPN
+ntt-west,NTT,NTT,PROPN
 ntt-west,歴史,歴史,NOUN
 ntt-west,残る,残る,VERB
 ntt-west,象徴的,象徴的,ADJ
 ntt-west,イベント,イベント,NOUN
+ntt-west,大阪,大阪,PROPN
+ntt-west,関西,関西,PROPN
 ntt-west,万博,万博,NOUN
 ntt-west,開催,開催,NOUN
 ntt-west,万博,万博,NOUN
@@ -1131,6 +1254,7 @@ ntt-west,多様,多様,ADJ
 ntt-west,ユースケース,ユースケース,NOUN
 ntt-west,実証,実証,NOUN
 ntt-west,展開,展開,VERB
+ntt-west,NTT,NTT,PROPN
 ntt-west,パビリオン,パビリオン,NOUN
 ntt-west,コミュニケーション,コミュニケーション,NOUN
 ntt-west,未来像,未来像,NOUN
@@ -1139,12 +1263,15 @@ ntt-west,多く,多く,NOUN
 ntt-west,さま,さま,NOUN
 ntt-west,未来,未来,NOUN
 ntt-west,体感,体感,VERB
+ntt-west,NTT,NTT,PROPN
 ntt-west,全体,全体,NOUN
 ntt-west,CI,CI,NOUN
 ntt-west,刷新,刷新,NOUN
 ntt-west,新生,新生,NOUN
+ntt-west,NTT西日本,NTT西日本,PROPN
 ntt-west,株式会社,株式会社,NOUN
 ntt-west,新しい,新しい,ADJ
+ntt-west,祖業,祖業,PROPN
 ntt-west,通信,通信,NOUN
 ntt-west,分野,分野,NOUN
 ntt-west,加え,加える,VERB
@@ -1181,6 +1308,7 @@ ntt-west,フル,フル,ADJ
 ntt-west,活用,活用,VERB
 ntt-west,地域社会,地域社会,NOUN
 ntt-west,経済,経済,NOUN
+ntt-west,デジタルトランスフォーメーション,デジタルトランスフォーメーション,PROPN
 ntt-west,入れ,入れる,VERB
 ntt-west,業種,業種,NOUN
 ntt-west,規模,規模,NOUN
@@ -1226,6 +1354,7 @@ ntt-west,"
 ","
 
 ",NOUN
+ntt-west,NTT西日本,NTT西日本,PROPN
 ntt-west,安心,安心,NOUN
 ntt-west,安全,安全,NOUN
 ntt-west,信頼,信頼,NOUN
@@ -1267,6 +1396,11 @@ ntt-data-es,お礼,お礼,NOUN
 ntt-data-es,あたり,あたる,VERB
 ntt-data-es,謹ん,謹む,VERB
 ntt-data-es,あいさつ,あいさつ,NOUN
+ntt-data-es,"
+
+","
+
+",PROPN
 ntt-data-es,中期経営計画,中期経営計画,NOUN
 ntt-data-es,最終,最終,NOUN
 ntt-data-es,年度,年度,NOUN
@@ -1284,6 +1418,7 @@ ntt-data-es,成果,成果,NOUN
 ntt-data-es,ビジネス,ビジネス,NOUN
 ntt-data-es,インテグレーション,インテグレーション,NOUN
 ntt-data-es,Project,Project,NOUN
+ntt-data-es,Space,Space,PROPN
 ntt-data-es,ソリューション,ソリューション,NOUN
 ntt-data-es,受注,受注,NOUN
 ntt-data-es,増加,増加,VERB
@@ -1316,6 +1451,7 @@ ntt-data-es,ソフトウェア,ソフトウェア,NOUN
 ntt-data-es,開発,開発,NOUN
 ntt-data-es,プロセス,プロセス,NOUN
 ntt-data-es,標準化,標準化,NOUN
+ntt-data-es,ALM,ALM,PROPN
 ntt-data-es,採用,採用,NOUN
 ntt-data-es,急速,急速,ADJ
 ntt-data-es,進み,進む,VERB
@@ -1328,6 +1464,7 @@ ntt-data-es,"
 ",NOUN
 ntt-data-es,生産性,生産性,NOUN
 ntt-data-es,品質,品質,NOUN
+ntt-data-es,NTT,NTT,PROPN
 ntt-data-es,データ,データ,NOUN
 ntt-data-es,知見,知見,NOUN
 ntt-data-es,活用,活用,VERB
@@ -1399,9 +1536,11 @@ ntt-data-es,重要,重要,ADJ
 ntt-data-es,要素,要素,NOUN
 ntt-data-es,Agentic,agentic,NOUN
 ntt-data-es,AI,AI,NOUN
+ntt-data-es,NTT,NTT,PROPN
 ntt-data-es,LLM,LLM,NOUN
 ntt-data-es,tsuzumi,tsuzumi,NOUN
 ntt-data-es,用い,用いる,VERB
+ntt-data-es,NTTデータグループ,NTTデータグループ,PROPN
 ntt-data-es,会社,会社,NOUN
 ntt-data-es,連携,連携,VERB
 ntt-data-es,プロセス,プロセス,NOUN
@@ -1409,6 +1548,7 @@ ntt-data-es,改革,改革,NOUN
 ntt-data-es,可能,可能,ADJ
 ntt-data-es,新しい,新しい,ADJ
 ntt-data-es,尽力,尽力,VERB
+ntt-data-es,NTTデータグループ,NTTデータグループ,PROPN
 ntt-data-es,総合力,総合力,NOUN
 ntt-data-es,とも,とも,NOUN
 ntt-data-es,パートナー,パートナー,NOUN
@@ -1460,13 +1600,25 @@ ntt-data-es,お願い,お願い,NOUN
 ntt-data-at,あたり,あたる,VERB
 ntt-data-at,謹ん,謹む,VERB
 ntt-data-at,慶び,慶び,NOUN
+ntt-data-at,"
+
+","
+
+",PROPN
 ntt-data-at,切り,切る,VERB
 ntt-data-at,大地,大地,NOUN
 ntt-data-at,駆ける,駆ける,VERB
 ntt-data-at,変わりゆく,変わりゆく,VERB
 ntt-data-at,走り抜ける,走り抜ける,VERB
+ntt-data-at,"
+
+","
+
+",PROPN
 ntt-data-at,明るい,明るい,ADJ
 ntt-data-at,兆し,兆し,NOUN
+ntt-data-at,大阪,大阪,PROPN
+ntt-data-at,関西,関西,PROPN
 ntt-data-at,万博,万博,NOUN
 ntt-data-at,世界中,世界中,NOUN
 ntt-data-at,技術,技術,NOUN
@@ -1496,6 +1648,7 @@ ntt-data-at,AI,AI,NOUN
 ntt-data-at,分野,分野,NOUN
 ntt-data-at,大きな,大きな,ADJ
 ntt-data-at,前進,前進,NOUN
+ntt-data-at,生成AI,生成AI,PROPN
 ntt-data-at,学習,学習,NOUN
 ntt-data-at,フェーズ,フェーズ,NOUN
 ntt-data-at,推論,推論,NOUN
@@ -1523,12 +1676,20 @@ ntt-data-at,Private,private,NOUN
 ntt-data-at,AI,AI,NOUN
 ntt-data-at,需要,需要,NOUN
 ntt-data-at,喚起,喚起,VERB
+ntt-data-at,"
+
+","
+
+",PROPN
+ntt-data-at,NTT,NTT,PROPN
 ntt-data-at,データ,データ,NOUN
 ntt-data-at,先端技術,先端技術,NOUN
 ntt-data-at,未来,未来,NOUN
 ntt-data-at,挑戦,挑戦,NOUN
 ntt-data-at,向け,向ける,VERB
 ntt-data-at,踏み出し,踏み出す,VERB
+ntt-data-at,東京,東京,PROPN
+ntt-data-at,丸の内,丸の内,PROPN
 ntt-data-at,位置,位置,VERB
 ntt-data-at,JP,JP,NOUN
 ntt-data-at,タワー,タワー,NOUN
@@ -1541,8 +1702,11 @@ ntt-data-at,技術,技術,NOUN
 ntt-data-at,行う,行う,VERB
 ntt-data-at,中期経営計画,中期経営計画,NOUN
 ntt-data-at,策定,策定,VERB
+ntt-data-at,NTTデータグループ,NTTデータグループ,PROPN
+ntt-data-at,NTT,NTT,PROPN
 ntt-data-at,完全,完全,ADJ
 ntt-data-at,子会社,子会社,NOUN
+ntt-data-at,NTT,NTT,PROPN
 ntt-data-at,全体,全体,NOUN
 ntt-data-at,人材,人材,NOUN
 ntt-data-at,知見,知見,NOUN
@@ -1550,6 +1714,11 @@ ntt-data-at,アセット,アセット,NOUN
 ntt-data-at,活用,活用,NOUN
 ntt-data-at,通じ,通ずる,VERB
 ntt-data-at,最大化,最大化,VERB
+ntt-data-at,"
+
+","
+
+",PROPN
 ntt-data-at,技術,技術,NOUN
 ntt-data-at,未来,未来,NOUN
 ntt-data-at,挑戦,挑戦,NOUN
@@ -1568,10 +1737,15 @@ ntt-data-at,さま,さま,NOUN
 ntt-data-at,未来,未来,NOUN
 ntt-data-at,向かっ,向かう,VERB
 ntt-data-at,踏み出す,踏み出す,VERB
+ntt-data-at,素晴らしい,素晴らしい,PROPN
 ntt-data-at,祈り,祈る,VERB
 mitsubishi-corp,明け,明ける,VERB
 mitsubishi-corp,おめでとう,おめでとう,ADJ
-mitsubishi-corp,さん,さん,NOUN
+mitsubishi-corp,"
+
+","
+
+",PROPN
 mitsubishi-corp,家族,家族,NOUN
 mitsubishi-corp,友人,友人,NOUN
 mitsubishi-corp,リラックス,リラックス,VERB
@@ -1605,6 +1779,7 @@ mitsubishi-corp,感じ,感ずる,VERB
 mitsubishi-corp,なか,なか,NOUN
 mitsubishi-corp,トランプ大統領,トランプ大統領,ADJ
 mitsubishi-corp,スタート,スタート,VERB
+mitsubishi-corp,アメリカ,アメリカ,PROPN
 mitsubishi-corp,起きる,起きる,VERB
 mitsubishi-corp,変化,変化,NOUN
 mitsubishi-corp,きっかけ,きっかけ,NOUN
@@ -1626,6 +1801,7 @@ mitsubishi-corp,関税,関税,NOUN
 mitsubishi-corp,各国,各国,NOUN
 mitsubishi-corp,衝撃,衝撃,NOUN
 mitsubishi-corp,与え,与える,VERB
+mitsubishi-corp,保護主義的,保護主義的,PROPN
 mitsubishi-corp,通商,通商,NOUN
 mitsubishi-corp,政策,政策,NOUN
 mitsubishi-corp,進展,進展,NOUN
@@ -1641,7 +1817,9 @@ mitsubishi-corp,"
 
 ",NOUN
 mitsubishi-corp,早々,早々,NOUN
+mitsubishi-corp,アメリカ,アメリカ,PROPN
 mitsubishi-corp,よる,よる,VERB
+mitsubishi-corp,ベネズエラ,ベネズエラ,PROPN
 mitsubishi-corp,対する,対する,VERB
 mitsubishi-corp,軍事,軍事,NOUN
 mitsubishi-corp,行動,行動,NOUN
@@ -1672,9 +1850,12 @@ mitsubishi-corp,"
 ","
 
 ",NOUN
+mitsubishi-corp,中国,中国,PROPN
 mitsubishi-corp,訪問,訪問,VERB
+mitsubishi-corp,中国,中国,PROPN
 mitsubishi-corp,製造業,製造業,NOUN
 mitsubishi-corp,技術力,技術力,NOUN
+mitsubishi-corp,中国,中国,PROPN
 mitsubishi-corp,製品,製品,NOUN
 mitsubishi-corp,品質,品質,NOUN
 mitsubishi-corp,高さ,高さ,NOUN
@@ -1684,6 +1865,7 @@ mitsubishi-corp,領域,領域,NOUN
 mitsubishi-corp,国家,国家,NOUN
 mitsubishi-corp,戦略,戦略,NOUN
 mitsubishi-corp,デジタル,デジタル,NOUN
+mitsubishi-corp,チャイナ,チャイナ,PROPN
 mitsubishi-corp,掲げ,掲げる,VERB
 mitsubishi-corp,多数,多数,NOUN
 mitsubishi-corp,デジタル,デジタル,NOUN
@@ -1720,12 +1902,15 @@ mitsubishi-corp,資源,資源,NOUN
 mitsubishi-corp,めぐる,めぐる,VERB
 mitsubishi-corp,駆け引き,駆け引き,NOUN
 mitsubishi-corp,まっ,まつ,VERB
+mitsubishi-corp,米国,米国,PROPN
+mitsubishi-corp,中国,中国,PROPN
 mitsubishi-corp,強く,強い,ADJ
 mitsubishi-corp,意識,意識,VERB
 mitsubishi-corp,大国,大国,NOUN
 mitsubishi-corp,関係,関係,NOUN
 mitsubishi-corp,フェーズ,フェーズ,NOUN
 mitsubishi-corp,入っ,入る,VERB
+mitsubishi-corp,中国,中国,PROPN
 mitsubishi-corp,存在感,存在感,NOUN
 mitsubishi-corp,増し,増す,VERB
 mitsubishi-corp,国際,国際,NOUN
@@ -1764,7 +1949,6 @@ mitsubishi-corp,左右,左右,VERB
 mitsubishi-corp,世界,世界,NOUN
 mitsubishi-corp,ビジネス,ビジネス,NOUN
 mitsubishi-corp,至る,至る,VERB
-mitsubishi-corp,ところ,ところ,NOUN
 mitsubishi-corp,AI,AI,NOUN
 mitsubishi-corp,よる,よる,VERB
 mitsubishi-corp,定義,定義,NOUN
@@ -1866,22 +2050,30 @@ mitsubishi-corp,強く,強い,ADJ
 mitsubishi-corp,意識,意識,VERB
 mitsubishi-corp,緊張感,緊張感,NOUN
 mitsubishi-corp,緩める,緩める,VERB
-mitsubishi-corp,なく,ない,ADJ
 mitsubishi-corp,施策,施策,NOUN
 mitsubishi-corp,実行,実行,VERB
 mitsubishi-corp,結果,結果,NOUN
 mitsubishi-corp,稼ぐ,稼ぐ,VERB
 mitsubishi-corp,示し,示す,VERB
 mitsubishi-corp,求め,求める,VERB
+mitsubishi-corp,"
+
+","
+
+",PROPN
 mitsubishi-corp,あたり,あたる,VERB
 mitsubishi-corp,成否,成否,NOUN
 mitsubishi-corp,左右,左右,VERB
 mitsubishi-corp,重要,重要,ADJ
 mitsubishi-corp,緊張感,緊張感,NOUN
-mitsubishi-corp,さん,さん,NOUN
 mitsubishi-corp,共有,共有,VERB
 mitsubishi-corp,心掛け,心掛ける,VERB
 mitsubishi-corp,伝え,伝える,VERB
+mitsubishi-corp,"
+
+","
+
+",PROPN
 mitsubishi-corp,自身,自身,NOUN
 mitsubishi-corp,立ち位置,立ち位置,NOUN
 mitsubishi-corp,見つめ,見つめる,VERB
@@ -1922,6 +2114,11 @@ mitsubishi-corp,状況,状況,NOUN
 mitsubishi-corp,動かす,動かす,VERB
 mitsubishi-corp,原動力,原動力,NOUN
 mitsubishi-corp,確信,確信,VERB
+mitsubishi-corp,"
+
+","
+
+",PROPN
 mitsubishi-corp,惜しま,惜しむ,VERB
 mitsubishi-corp,勉強,勉強,VERB
 mitsubishi-corp,続け,続ける,VERB
@@ -1934,6 +2131,7 @@ mitsubishi-corp,続け,続ける,VERB
 mitsubishi-corp,インターネット,インターネット,NOUN
 mitsubishi-corp,普及,普及,NOUN
 mitsubishi-corp,近年,近年,NOUN
+mitsubishi-corp,生成AI,生成AI,PROPN
 mitsubishi-corp,進化,進化,NOUN
 mitsubishi-corp,より,よる,VERB
 mitsubishi-corp,深く,深い,ADJ
@@ -2000,7 +2198,6 @@ mitsubishi-corp,私自身,私自身,NOUN
 mitsubishi-corp,意識,意識,VERB
 mitsubishi-corp,先頭,先頭,NOUN
 mitsubishi-corp,立っ,立つ,VERB
-mitsubishi-corp,さん,さん,NOUN
 mitsubishi-corp,歩ん,歩む,VERB
 mitsubishi-corp,行き,行く,VERB
 mitsubishi-corp,"
@@ -2044,13 +2241,13 @@ mitsubishi-corp,想い,想い,NOUN
 mitsubishi-corp,込め,込める,VERB
 mitsubishi-corp,決断,決断,VERB
 mitsubishi-corp,願い,願う,VERB
-mitsubishi-corp,さん,さん,NOUN
 mitsubishi-corp,一人ひとり,一人ひとり,NOUN
 mitsubishi-corp,意識,意識,NOUN
 mitsubishi-corp,行動,行動,NOUN
 mitsubishi-corp,受け止める,受け止める,VERB
 mitsubishi-corp,組織,組織,NOUN
 mitsubishi-corp,機能,機能,VERB
+mitsubishi-corp,三菱商事,三菱商事,PROPN
 mitsubishi-corp,最大,最大,NOUN
 mitsubishi-corp,武器,武器,NOUN
 mitsubishi-corp,総合力,総合力,NOUN
@@ -2091,19 +2288,16 @@ mitsubishi-corp,次第,次第,NOUN
 mitsubishi-corp,幕開け,幕開け,NOUN
 mitsubishi-corp,あたり,あたる,VERB
 mitsubishi-corp,今日,今日,NOUN
-mitsubishi-corp,さん,さん,NOUN
 mitsubishi-corp,とも,とも,NOUN
 mitsubishi-corp,力強く,力強い,ADJ
 mitsubishi-corp,前進,前進,VERB
 mitsubishi-corp,楽しみ,楽しみ,NOUN
 mitsubishi-corp,駆け抜け,駆け抜ける,VERB
 marubeni,丸紅,丸紅,NOUN
-marubeni,さん,さん,NOUN
 marubeni,あけ,あける,VERB
 marubeni,おめでとう,おめでとう,ADJ
 marubeni,世界中,世界中,NOUN
 marubeni,丸紅,丸紅,NOUN
-marubeni,さん,さん,NOUN
 marubeni,家族,家族,NOUN
 marubeni,とっ,とる,VERB
 marubeni,希望,希望,NOUN
@@ -2124,11 +2318,15 @@ marubeni,継続,継続,VERB
 marubeni,丸紅,丸紅,NOUN
 marubeni,支え,支える,VERB
 marubeni,多く,多く,NOUN
-marubeni,さん,さん,NOUN
 marubeni,献身的,献身的,NOUN
 marubeni,尽力,尽力,NOUN
 marubeni,対し,対する,VERB
 marubeni,感謝,感謝,NOUN
+marubeni,"
+
+","
+
+",PROPN
 marubeni,干支,干支,NOUN
 marubeni,古来,古来,NOUN
 marubeni,駆け抜ける,駆け抜ける,VERB
@@ -2142,7 +2340,6 @@ marubeni,大地,大地,NOUN
 marubeni,踏みしめ,踏みしめる,VERB
 marubeni,切っ,切る,VERB
 marubeni,前進,前進,VERB
-marubeni,とき,とき,NOUN
 marubeni,群れ,群れ,NOUN
 marubeni,圧倒的,圧倒的,ADJ
 marubeni,生み出す,生み出す,VERB
@@ -2160,12 +2357,16 @@ marubeni,ステージ,ステージ,NOUN
 marubeni,駆け上がる,駆け上がる,VERB
 marubeni,主役,主役,NOUN
 marubeni,まぎれ,まぎれ,NOUN
-marubeni,なく,ない,ADJ
-marubeni,さん,さん,NOUN
 marubeni,一人ひとり,一人ひとり,NOUN
+marubeni,"
+
+","
+
+",PROPN
 marubeni,振り返れ,振り返る,VERB
 marubeni,変化,変化,NOUN
 marubeni,強く,強い,ADJ
+marubeni,生成AI,生成AI,PROPN
 marubeni,代表,代表,VERB
 marubeni,新しい,新しい,ADJ
 marubeni,テクノロジー,テクノロジー,NOUN
@@ -2173,6 +2374,7 @@ marubeni,活用,活用,NOUN
 marubeni,飛躍的,飛躍的,ADJ
 marubeni,拡がる,拡がる,VERB
 marubeni,一方,一方,NOUN
+marubeni,米国,米国,PROPN
 marubeni,関税,関税,NOUN
 marubeni,地政学,地政学,NOUN
 marubeni,要因,要因,NOUN
@@ -2240,7 +2442,6 @@ marubeni,現場,現場,NOUN
 marubeni,最前線,最前線,NOUN
 marubeni,挑戦,挑戦,NOUN
 marubeni,続ける,続ける,VERB
-marubeni,さん,さん,NOUN
 marubeni,対話,対話,NOUN
 marubeni,重ね,重ねる,VERB
 marubeni,対話,対話,NOUN
@@ -2293,7 +2494,6 @@ marubeni,丸紅,丸紅,NOUN
 marubeni,普遍的,普遍的,ADJ
 marubeni,強さ,強さ,NOUN
 marubeni,源泉,源泉,NOUN
-marubeni,さん,さん,NOUN
 marubeni,共有,共有,VERB
 marubeni,"
 
@@ -2395,6 +2595,9 @@ marubeni,一見,一見,VERB
 marubeni,脅威,脅威,NOUN
 marubeni,映り,映る,VERB
 marubeni,同時,同時,NOUN
+marubeni,米国,米国,PROPN
+marubeni,日本,日本,PROPN
+marubeni,グローバルサウス,グローバルサウス,PROPN
 marubeni,中心,中心,NOUN
 marubeni,内需,内需,NOUN
 marubeni,経済,経済,NOUN
@@ -2414,6 +2617,7 @@ marubeni,世界,世界,NOUN
 marubeni,各地,各地,NOUN
 marubeni,着実,着実,ADJ
 marubeni,生まれ,生まれる,VERB
+marubeni,生成AI,生成AI,PROPN
 marubeni,代表,代表,VERB
 marubeni,新しい,新しい,ADJ
 marubeni,テクノロジー,テクノロジー,NOUN
@@ -2430,6 +2634,7 @@ marubeni,生産性,生産性,NOUN
 marubeni,競争力,競争力,NOUN
 marubeni,追求,追求,VERB
 marubeni,機会,機会,NOUN
+marubeni,生成AI,生成AI,PROPN
 marubeni,経済圏,経済圏,NOUN
 marubeni,飛躍的,飛躍的,NOUN
 marubeni,拡張,拡張,NOUN
@@ -2501,6 +2706,11 @@ marubeni,世界中,世界中,NOUN
 marubeni,丸紅,丸紅,NOUN
 marubeni,社員,社員,NOUN
 marubeni,一人ひとり,一人ひとり,NOUN
+marubeni,"
+
+","
+
+",PROPN
 marubeni,世界,世界,NOUN
 marubeni,時代,時代,NOUN
 marubeni,変化,変化,NOUN
@@ -2573,7 +2783,6 @@ marubeni,エネルギー,エネルギー,NOUN
 marubeni,充填,充填,VERB
 marubeni,道のり,道のり,NOUN
 marubeni,平坦,平坦,NOUN
-marubeni,さん,さん,NOUN
 marubeni,一人ひとり,一人ひとり,NOUN
 marubeni,よっ,よる,VERB
 marubeni,着実,着実,ADJ
@@ -2625,7 +2834,6 @@ marubeni,規律,規律,VERB
 marubeni,実践,実践,VERB
 marubeni,進ん,進む,VERB
 marubeni,大切,大切,ADJ
-marubeni,さん,さん,NOUN
 marubeni,個人,個人,NOUN
 marubeni,持ち物,持ち物,NOUN
 marubeni,込め,込める,VERB
@@ -2656,6 +2864,11 @@ marubeni,もっ,もつ,VERB
 marubeni,積み重ね,積み重ねる,VERB
 marubeni,GC,GC,NOUN
 marubeni,真髄,真髄,NOUN
+marubeni,"
+
+","
+
+",PROPN
 marubeni,GC,GC,NOUN
 marubeni,規律,規律,NOUN
 marubeni,実践,実践,NOUN
@@ -2709,7 +2922,6 @@ marubeni,丸紅,丸紅,NOUN
 marubeni,普遍的,普遍的,NOUN
 marubeni,強み,強み,NOUN
 marubeni,如何,如何,NOUN
-marubeni,なく,ない,ADJ
 marubeni,発揮,発揮,VERB
 marubeni,従来,従来,NOUN
 marubeni,守り,守り,NOUN
@@ -2719,7 +2931,6 @@ marubeni,規律,規律,NOUN
 marubeni,大切,大切,ADJ
 marubeni,同時,同時,NOUN
 marubeni,スピード,スピード,NOUN
-marubeni,ところ,ところ,NOUN
 marubeni,迷わ,迷う,VERB
 marubeni,ギア,ギア,NOUN
 marubeni,果敢,果敢,ADJ
@@ -2745,9 +2956,7 @@ marubeni,"
 
 ",NOUN
 marubeni,原動力,原動力,NOUN
-marubeni,さん,さん,NOUN
 marubeni,力強い,力強い,ADJ
-marubeni,さん,さん,NOUN
 marubeni,一人ひとり,一人ひとり,NOUN
 marubeni,自ら,自ら,NOUN
 marubeni,奮い立た,奮い立つ,VERB
@@ -2760,12 +2969,10 @@ marubeni,丸紅,丸紅,NOUN
 marubeni,ステージ,ステージ,NOUN
 marubeni,押し上げる,押し上げる,VERB
 marubeni,原動力,原動力,NOUN
-marubeni,さん,さん,NOUN
 marubeni,現場,現場,NOUN
 marubeni,対話,対話,NOUN
 marubeni,通じ,通ずる,VERB
 marubeni,丸紅,丸紅,NOUN
-marubeni,さん,さん,NOUN
 marubeni,素晴らしい,素晴らしい,ADJ
 marubeni,志向,志向,NOUN
 marubeni,連続,連続,VERB
@@ -2793,7 +3000,9 @@ marubeni,原点,原点,NOUN
 marubeni,土台,土台,NOUN
 marubeni,確認,確認,VERB
 marubeni,意味,意味,NOUN
+marubeni,大正,大正,PROPN
 marubeni,末期,末期,NOUN
+marubeni,昭和,昭和,PROPN
 marubeni,初期,初期,NOUN
 marubeni,かけ,かける,VERB
 marubeni,丸紅,丸紅,NOUN
@@ -2802,10 +3011,11 @@ marubeni,専務,専務,NOUN
 marubeni,現在,現在,NOUN
 marubeni,丸紅,丸紅,NOUN
 marubeni,築か,築く,VERB
-marubeni,さん,さん,NOUN
+marubeni,古川,古川,PROPN
+marubeni,鉄治郎,鉄治郎,PROPN
 marubeni,言葉,言葉,NOUN
 marubeni,紹介,紹介,VERB
-marubeni,さん,さん,NOUN
+marubeni,古川,古川,PROPN
 marubeni,本分,本分,ADJ
 marubeni,尽くす,尽くす,VERB
 marubeni,何時,何時,NOUN
@@ -2829,7 +3039,6 @@ marubeni,国家,国家,NOUN
 marubeni,本分,本分,NOUN
 marubeni,尽くす,尽くす,VERB
 marubeni,ほか,ほか,NOUN
-marubeni,ない,ない,ADJ
 marubeni,商人,商人,NOUN
 marubeni,"
 
@@ -2862,7 +3071,6 @@ marubeni,込め,込める,VERB
 marubeni,挑み,挑む,VERB
 marubeni,続ける,続ける,VERB
 marubeni,同時,同時,NOUN
-marubeni,さん,さん,NOUN
 marubeni,一人ひとり,一人ひとり,NOUN
 marubeni,なる,なり,VERB
 marubeni,高み,高み,NOUN
@@ -2874,6 +3082,11 @@ marubeni,自分,自分,NOUN
 marubeni,高み,高み,NOUN
 marubeni,一歩,一歩,VERB
 marubeni,踏み出し,踏み出す,VERB
+marubeni,"
+
+","
+
+",PROPN
 marubeni,午年,午年,NOUN
 marubeni,駆け上がる,駆け上がる,VERB
 marubeni,エネルギー,エネルギー,NOUN
@@ -2890,7 +3103,6 @@ marubeni,自ら,自ら,NOUN
 marubeni,厳しく,厳しい,ADJ
 marubeni,律し,律する,VERB
 marubeni,奮い立た,奮い立つ,VERB
-marubeni,さん,さん,NOUN
 marubeni,なる,なり,VERB
 marubeni,高み,高み,NOUN
 marubeni,全速力,全速力,VERB
@@ -2905,7 +3117,6 @@ marubeni,"
 marubeni,最後,最後,NOUN
 marubeni,世界中,世界中,NOUN
 marubeni,丸紅,丸紅,NOUN
-marubeni,さん,さん,NOUN
 marubeni,家族,家族,NOUN
 marubeni,とっ,とる,VERB
 marubeni,希望,希望,NOUN
@@ -2913,7 +3124,6 @@ marubeni,笑顔,笑顔,NOUN
 marubeni,満ち,満ちる,VERB
 marubeni,願っ,願う,VERB
 marubeni,願い,願う,VERB
-itochu,さん,さん,NOUN
 itochu,明け,明ける,VERB
 itochu,おめでとう,おめでとう,ADJ
 itochu,"
@@ -2926,7 +3136,7 @@ itochu,スタート,スタート,NOUN
 itochu,あたり,あたる,VERB
 itochu,世界,世界,NOUN
 itochu,活躍,活躍,VERB
-itochu,さん,さん,NOUN
+itochu,伊藤忠,伊藤忠,PROPN
 itochu,"
 
 ","
@@ -2944,7 +3154,6 @@ itochu,伝え,伝える,VERB
 itochu,AI,AI,NOUN
 itochu,積極的,積極的,ADJ
 itochu,活用,活用,NOUN
-itochu,さん,さん,NOUN
 itochu,願い,願う,VERB
 itochu,その後,その後,NOUN
 itochu,社内,社内,NOUN
@@ -2973,11 +3182,14 @@ itochu,一方,一方,NOUN
 itochu,AI,AI,NOUN
 itochu,進化,進化,NOUN
 itochu,留まる,留まる,VERB
-itochu,ところ,ところ,NOUN
 itochu,知り,知る,VERB
+itochu,台湾,台湾,PROPN
 itochu,デジタル,デジタル,NOUN
 itochu,大臣,大臣,NOUN
+itochu,オードリー,オードリー,PROPN
+itochu,タン,タン,PROPN
 itochu,示し,示す,VERB
+itochu,日本,日本,PROPN
 itochu,AI,AI,NOUN
 itochu,実装,実装,NOUN
 itochu,本格的,本格的,ADJ
@@ -3008,7 +3220,6 @@ itochu,分野,分野,NOUN
 itochu,AI,AI,NOUN
 itochu,組み込ま,組み込む,VERB
 itochu,間違い,間違い,NOUN
-itochu,ない,ない,ADJ
 itochu,"
 
 ","
@@ -3055,6 +3266,7 @@ itochu,存在,存在,NOUN
 itochu,顧客,顧客,NOUN
 itochu,接点,接点,NOUN
 itochu,多い,多い,ADJ
+itochu,川下,川下,PROPN
 itochu,ビジネス,ビジネス,NOUN
 itochu,強み,強み,NOUN
 itochu,持つ,持つ,VERB
@@ -3116,7 +3328,6 @@ itochu,モデル,モデル,NOUN
 itochu,創造,創造,VERB
 itochu,可能性,可能性,NOUN
 itochu,思い,思い,NOUN
-itochu,さん,さん,NOUN
 itochu,ひとり一人,ひとり一人,NOUN
 itochu,更なる,更なる,ADJ
 itochu,AI,AI,NOUN
@@ -3131,29 +3342,38 @@ itochu,"
 ",NOUN
 itochu,最後,最後,NOUN
 itochu,年度,年度,NOUN
+itochu,連結純利益,連結純利益,PROPN
 itochu,計画,計画,NOUN
 itochu,必達,必達,NOUN
 itochu,とも,とも,NOUN
+itochu,伊藤忠,伊藤忠,PROPN
 itochu,更なる,更なる,ADJ
 itochu,活躍,活躍,NOUN
 itochu,商売,商売,NOUN
 itochu,繁盛,繁盛,NOUN
 itochu,世界,世界,NOUN
 itochu,活躍,活躍,VERB
+itochu,伊藤忠,伊藤忠,PROPN
 itochu,社員,社員,NOUN
 itochu,家族,家族,NOUN
 itochu,健康,健康,NOUN
 itochu,多幸,多幸,NOUN
 itochu,祈念,祈念,VERB
-sumitomo-corp,さん,さん,NOUN
 sumitomo-corp,あけ,あける,VERB
 sumitomo-corp,おめでとう,おめでとう,ADJ
+sumitomo-corp,東京,東京,PROPN
+sumitomo-corp,大手町,大手町,PROPN
 sumitomo-corp,オフィス,オフィス,NOUN
-sumitomo-corp,さん,さん,NOUN
-sumitomo-corp,さん,さん,NOUN
+sumitomo-corp,住友商事,住友商事,PROPN
+sumitomo-corp,"
+
+","
+
+",PROPN
 sumitomo-corp,年末年始,年末年始,NOUN
 sumitomo-corp,過ごさ,過ごす,VERB
 sumitomo-corp,年末,年末,NOUN
+sumitomo-corp,関西,関西,PROPN
 sumitomo-corp,実家,実家,NOUN
 sumitomo-corp,帰省,帰省,VERB
 sumitomo-corp,正月,正月,NOUN
@@ -3180,12 +3400,16 @@ sumitomo-corp,"
 ",NOUN
 sumitomo-corp,振り返る,振り返る,VERB
 sumitomo-corp,思い出す,思い出す,VERB
+sumitomo-corp,大阪,大阪,PROPN
+sumitomo-corp,関西,関西,PROPN
 sumitomo-corp,万博,万博,NOUN
 sumitomo-corp,累計,累計,NOUN
 sumitomo-corp,越える,越える,VERB
 sumitomo-corp,来場者,来場者,NOUN
 sumitomo-corp,盛況,盛況,ADJ
 sumitomo-corp,博覧会,博覧会,NOUN
+sumitomo-corp,住友,住友,PROPN
+sumitomo-corp,住友,住友,PROPN
 sumitomo-corp,累計,累計,NOUN
 sumitomo-corp,越し,越す,VERB
 sumitomo-corp,メディア,メディア,NOUN
@@ -3321,8 +3545,10 @@ sumitomo-corp,駆使,駆使,VERB
 sumitomo-corp,圧倒,圧倒,VERB
 sumitomo-corp,ビジネスモデル,ビジネスモデル,NOUN
 sumitomo-corp,構築,構築,VERB
+sumitomo-corp,DAIS,dais,PROPN
 sumitomo-corp,根幹,根幹,NOUN
 sumitomo-corp,営業,営業,NOUN
+sumitomo-corp,コーポレート,コーポレート,PROPN
 sumitomo-corp,地域,地域,NOUN
 sumitomo-corp,組織,組織,NOUN
 sumitomo-corp,すべて,すべて,NOUN
@@ -3404,7 +3630,6 @@ sumitomo-corp,"
 ",NOUN
 sumitomo-corp,環境,環境,NOUN
 sumitomo-corp,踏まえ,踏まえる,VERB
-sumitomo-corp,さん,さん,NOUN
 sumitomo-corp,一人ひとり,一人ひとり,NOUN
 sumitomo-corp,伝え,伝える,VERB
 sumitomo-corp,デジタル,デジタル,NOUN
@@ -3460,9 +3685,9 @@ sumitomo-corp,"
 ","
 
 ",NOUN
+sumitomo-corp,住友商事,住友商事,PROPN
 sumitomo-corp,とっ,とる,VERB
 sumitomo-corp,社員,社員,NOUN
-sumitomo-corp,さん,さん,NOUN
 sumitomo-corp,社員,社員,NOUN
 sumitomo-corp,家族,家族,NOUN
 sumitomo-corp,方々,方々,NOUN
@@ -3473,11 +3698,9 @@ sumitomo-corp,幸せ,幸せ,ADJ
 sumitomo-corp,実り,実り,NOUN
 sumitomo-corp,多い,多い,ADJ
 sumitomo-corp,祈念,祈念,VERB
-toyota,さん,さん,NOUN
 toyota,あけ,あける,VERB
 toyota,おめでとう,おめでとう,ADJ
 toyota,健やか,健やか,ADJ
-toyota,さん,さん,NOUN
 toyota,迎え,迎える,VERB
 toyota,本当,本当,NOUN
 toyota,うれしく,うれしい,ADJ
@@ -3517,10 +3740,12 @@ toyota,当たり前,当たり前,ADJ
 toyota,未来,未来,NOUN
 toyota,みんな,みんな,NOUN
 toyota,つくる,つくる,VERB
+toyota,豊田,豊田,PROPN
 toyota,会長,会長,NOUN
 toyota,想い,想い,NOUN
 toyota,もと,もと,NOUN
 toyota,グローバル,グローバル,ADJ
+toyota,トヨタ,トヨタ,PROPN
 toyota,たくさん,たくさん,ADJ
 toyota,笑顔,笑顔,NOUN
 toyota,"
@@ -3539,7 +3764,6 @@ toyota,行動,行動,NOUN
 toyota,つなげる,つなげる,VERB
 toyota,大切,大切,ADJ
 toyota,実感,実感,VERB
-toyota,さん,さん,NOUN
 toyota,感謝,感謝,NOUN
 toyota,気持ち,気持ち,NOUN
 toyota,伝え,伝える,VERB
@@ -3555,7 +3779,6 @@ toyota,頑張っ,頑張る,VERB
 toyota,くれ,くれる,VERB
 toyota,会社,会社,NOUN
 toyota,すべて,すべて,NOUN
-toyota,さん,さん,NOUN
 toyota,本当,本当,NOUN
 toyota,"
 
@@ -3611,7 +3834,6 @@ toyota,必死,必死,ADJ
 toyota,頑張っ,頑張る,VERB
 toyota,仕事,仕事,NOUN
 toyota,くれ,くれる,VERB
-toyota,さん,さん,NOUN
 toyota,"
 
 ","
@@ -3639,16 +3861,20 @@ toyota,"
 ","
 
 ",NOUN
+toyota,ブラジル,ブラジル,PROPN
+toyota,ポルト,ポルト,PROPN
 toyota,フェリス,フェリス,NOUN
 toyota,工場,工場,NOUN
 toyota,竜巻,竜巻,NOUN
 toyota,被災,被災,VERB
-toyota,とき,とき,NOUN
 toyota,グローバル,グローバル,ADJ
+toyota,トヨタ,トヨタ,PROPN
 toyota,チーム,チーム,NOUN
 toyota,実感,実感,VERB
 toyota,一報,一報,NOUN
 toyota,受け,受ける,VERB
+toyota,日本,日本,PROPN
+toyota,インドネシア,インドネシア,PROPN
 toyota,バックアップ,バックアップ,NOUN
 toyota,生産,生産,NOUN
 toyota,動き,動く,VERB
@@ -3666,12 +3892,10 @@ toyota,飛ん,飛ぶ,VERB
 toyota,とも,とも,NOUN
 toyota,復旧,復旧,NOUN
 toyota,くれ,くれる,VERB
-toyota,さん,さん,NOUN
 toyota,生産,生産,NOUN
 toyota,再開,再開,NOUN
 toyota,準備,準備,NOUN
 toyota,くれ,くれる,VERB
-toyota,さん,さん,NOUN
 toyota,本当,本当,NOUN
 toyota,"
 
@@ -3679,7 +3903,6 @@ toyota,"
 
 ",NOUN
 toyota,現場,現場,NOUN
-toyota,さん,さん,NOUN
 toyota,想い,想い,NOUN
 toyota,行動,行動,NOUN
 toyota,仕入先,仕入先,NOUN
@@ -3715,6 +3938,7 @@ toyota,不便,不便,NOUN
 toyota,かけ,かける,VERB
 toyota,状況,状況,NOUN
 toyota,変わっ,変わる,VERB
+toyota,日本,日本,PROPN
 toyota,クルマ,クルマ,NOUN
 toyota,商談,商談,VERB
 toyota,状況,状況,NOUN
@@ -3732,11 +3956,16 @@ toyota,届け,届ける,VERB
 toyota,全員,全員,NOUN
 toyota,改善,改善,NOUN
 toyota,続け,続ける,VERB
-familymart,さん,さん,NOUN
 familymart,明け,明ける,VERB
 familymart,おめでとう,おめでとう,ADJ
+familymart,"
+
+","
+
+",PROPN
 familymart,健やか,健やか,ADJ
 familymart,迎え,迎える,VERB
+familymart,ファミリーマート,ファミリーマート,PROPN
 familymart,関わる,関わる,VERB
 familymart,すべて,すべて,NOUN
 familymart,さま,さま,NOUN
@@ -3767,11 +3996,15 @@ familymart,"
 
 ",NOUN
 familymart,振り返れ,振り返る,VERB
+familymart,ファミリーマート,ファミリーマート,PROPN
 familymart,とっ,とる,VERB
 familymart,大きな,大きな,ADJ
 familymart,転機,転機,NOUN
+familymart,大谷,大谷,PROPN
+familymart,翔平,翔平,PROPN
 familymart,選手,選手,NOUN
 familymart,取り組み,取り組み,NOUN
+familymart,ファミリーマート,ファミリーマート,PROPN
 familymart,ブランド,ブランド,NOUN
 familymart,高い,高い,ADJ
 familymart,ステージ,ステージ,NOUN
@@ -3783,6 +4016,7 @@ familymart,便利,便利,ADJ
 familymart,存在,存在,NOUN
 familymart,支える,支える,VERB
 familymart,インフラ,インフラ,NOUN
+familymart,日本,日本,PROPN
 familymart,示す,示す,VERB
 familymart,"
 
@@ -3806,6 +4040,8 @@ familymart,体現,体現,VERB
 familymart,結果,結果,NOUN
 familymart,強く,強い,ADJ
 familymart,感じ,感ずる,VERB
+familymart,ファミリーマート,ファミリーマート,PROPN
+familymart,日本,日本,PROPN
 familymart,リテール,リテール,NOUN
 familymart,牽引,牽引,VERB
 familymart,存在,存在,NOUN
@@ -3822,6 +4058,11 @@ familymart,周年,周年,NOUN
 familymart,大きな,大きな,ADJ
 familymart,節目,節目,NOUN
 familymart,立っ,立つ,VERB
+familymart,"
+
+","
+
+",PROPN
 familymart,ステージ,ステージ,NOUN
 familymart,求め,求める,VERB
 familymart,リアル店舗,リアル店舗,NOUN
@@ -3885,9 +4126,9 @@ familymart,言わ,言う,VERB
 familymart,現状,現状,NOUN
 familymart,安住,安住,VERB
 familymart,チャレンジ,チャレンジ,VERB
-familymart,ほう,ほう,NOUN
 familymart,コンビニ,コンビニ,NOUN
 familymart,掲げる,掲げる,VERB
+familymart,ファミリーマート,ファミリーマート,PROPN
 familymart,ふさわしい,ふさわしい,ADJ
 familymart,"
 
@@ -4004,7 +4245,6 @@ seven-i,確信,確信,VERB
 seven-i,優れ,優れる,VERB
 seven-i,商品,商品,NOUN
 seven-i,開発力,開発力,NOUN
-seven-i,ない,ない,ADJ
 seven-i,バリュー,バリュー,NOUN
 seven-i,チェーン,チェーン,NOUN
 seven-i,店舗,店舗,NOUN
@@ -4020,7 +4260,6 @@ seven-i,届け,届ける,VERB
 seven-i,全力,全力,NOUN
 seven-i,注い,注ぐ,VERB
 seven-i,社員,社員,NOUN
-seven-i,さん,さん,NOUN
 seven-i,強み,強み,NOUN
 seven-i,活かし,活かす,VERB
 seven-i,グローバル,グローバル,ADJ
@@ -4097,7 +4336,6 @@ seven-i,リーダーシップ,リーダーシップ,NOUN
 seven-i,受け継ぎ,受け継ぐ,VERB
 seven-i,歴史,歴史,NOUN
 seven-i,開こう,開く,VERB
-seven-i,さん,さん,NOUN
 seven-i,とも,とも,NOUN
 seven-i,グローバル,グローバル,ADJ
 seven-i,チーム,チーム,NOUN
@@ -4201,6 +4439,11 @@ jfe-steel,精力的,精力的,ADJ
 jfe-steel,挑戦,挑戦,NOUN
 jfe-steel,実行,実行,NOUN
 jfe-steel,願い,願う,VERB
+jfe-steel,"
+
+","
+
+",PROPN
 jfe-steel,中期,中期,NOUN
 jfe-steel,年度,年度,NOUN
 jfe-steel,構造,構造,NOUN
@@ -4224,6 +4467,7 @@ jfe-steel,経営,経営,NOUN
 jfe-steel,環境,環境,NOUN
 jfe-steel,急速,急速,ADJ
 jfe-steel,悪化,悪化,VERB
+jfe-steel,中国,中国,PROPN
 jfe-steel,廉価,廉価,ADJ
 jfe-steel,鋼材,鋼材,NOUN
 jfe-steel,大量,大量,ADJ
@@ -4237,6 +4481,7 @@ jfe-steel,トランプ,トランプ,NOUN
 jfe-steel,関税,関税,NOUN
 jfe-steel,始め,始め,NOUN
 jfe-steel,各国,各国,NOUN
+jfe-steel,保護主義的,保護主義的,PROPN
 jfe-steel,通商,通商,NOUN
 jfe-steel,政策,政策,NOUN
 jfe-steel,状況,状況,NOUN
@@ -4255,7 +4500,7 @@ jfe-steel,市況,市況,NOUN
 jfe-steel,回復,回復,NOUN
 jfe-steel,楽観,楽観,VERB
 jfe-steel,状況,状況,NOUN
-jfe-steel,なく,ない,ADJ
+jfe-steel,リーマンショック,リーマンショック,PROPN
 jfe-steel,コロナ禍,コロナ禍,NOUN
 jfe-steel,前例,前例,ADJ
 jfe-steel,見立て,見立てる,VERB
@@ -4313,6 +4558,7 @@ jfe-steel,最大化,最大化,NOUN
 jfe-steel,注力,注力,VERB
 jfe-steel,生産,生産,NOUN
 jfe-steel,能力,能力,NOUN
+jfe-steel,倉敷,倉敷,PROPN
 jfe-steel,地区,地区,NOUN
 jfe-steel,高炉,高炉,NOUN
 jfe-steel,バンキング,バンキング,NOUN
@@ -4376,7 +4622,6 @@ jfe-steel,マンパワー,マンパワー,NOUN
 jfe-steel,創造的,創造的,ADJ
 jfe-steel,活動,活動,NOUN
 jfe-steel,集中,集中,VERB
-jfe-steel,さん,さん,NOUN
 jfe-steel,結集,結集,VERB
 jfe-steel,安全,安全,NOUN
 jfe-steel,安定,安定,NOUN
@@ -4387,6 +4632,11 @@ jfe-steel,会社全体,会社全体,NOUN
 jfe-steel,良い,良い,ADJ
 jfe-steel,サイクル,サイクル,NOUN
 jfe-steel,導い,導く,VERB
+jfe-steel,"
+
+","
+
+",PROPN
 jfe-steel,コスト,コスト,NOUN
 jfe-steel,管理,管理,NOUN
 jfe-steel,製造業,製造業,NOUN
@@ -4413,6 +4663,7 @@ jfe-steel,本質,本質,NOUN
 jfe-steel,捉え,捉える,VERB
 jfe-steel,取り組み,取り組み,NOUN
 jfe-steel,資源,資源,NOUN
+jfe-steel,お金,お金,PROPN
 jfe-steel,時間,時間,NOUN
 jfe-steel,情報,情報,NOUN
 jfe-steel,知的財産,知的財産,NOUN
@@ -4504,6 +4755,7 @@ jfe-steel,成果,成果,NOUN
 jfe-steel,スタッフ,スタッフ,NOUN
 jfe-steel,業務,業務,NOUN
 jfe-steel,業務プロセス,業務プロセス,NOUN
+jfe-steel,生成AI,生成AI,PROPN
 jfe-steel,含む,含む,VERB
 jfe-steel,DX,DX,NOUN
 jfe-steel,ツール,ツール,NOUN
@@ -4529,7 +4781,6 @@ jfe-steel,取り組み,取り組み,NOUN
 jfe-steel,具体的,具体的,ADJ
 jfe-steel,始め,始める,VERB
 jfe-steel,会社,会社,NOUN
-jfe-steel,さん,さん,NOUN
 jfe-steel,取り組み,取り組み,NOUN
 jfe-steel,体制,体制,NOUN
 jfe-steel,整備,整備,VERB
@@ -4584,7 +4835,6 @@ jfe-steel,環境,環境,NOUN
 jfe-steel,乗り越え,乗り越える,VERB
 jfe-steel,労働組合,労働組合,NOUN
 jfe-steel,みな,みな,NOUN
-jfe-steel,さん,さん,NOUN
 jfe-steel,存在,存在,NOUN
 jfe-steel,欠かせ,欠かせる,VERB
 jfe-steel,労働組合,労働組合,NOUN
@@ -4614,7 +4864,6 @@ jfe-steel,あたり,あたる,NOUN
 jfe-steel,所信,所信,NOUN
 jfe-steel,申し述べ,申し述べる,VERB
 jfe-steel,みな,みな,NOUN
-jfe-steel,さん,さん,NOUN
 jfe-steel,家族,家族,NOUN
 jfe-steel,とっ,とる,VERB
 jfe-steel,実り,実り,NOUN
@@ -4634,8 +4883,8 @@ sekisui-chem,トランプ,トランプ,NOUN
 sekisui-chem,関税,関税,NOUN
 sekisui-chem,ショック,ショック,NOUN
 sekisui-chem,見通せ,見通せる,NOUN
-sekisui-chem,ない,ない,ADJ
 sekisui-chem,スタート,スタート,NOUN
+sekisui-chem,積水化学,積水化学,PROPN
 sekisui-chem,長期,長期,NOUN
 sekisui-chem,ビジョン,ビジョン,NOUN
 sekisui-chem,世の中,世の中,NOUN
@@ -4647,6 +4896,8 @@ sekisui-chem,前提,前提,NOUN
 sekisui-chem,開始,開始,NOUN
 sekisui-chem,直後,直後,NOUN
 sekisui-chem,コロナ禍,コロナ禍,VERB
+sekisui-chem,ロシア,ロシア,PROPN
+sekisui-chem,ウクライナ,ウクライナ,PROPN
 sekisui-chem,侵攻,侵攻,NOUN
 sekisui-chem,地震,地震,NOUN
 sekisui-chem,豪雨,豪雨,NOUN
@@ -4666,6 +4917,7 @@ sekisui-chem,"
 ","
 
 ",NOUN
+sekisui-chem,積水化学,積水化学,PROPN
 sekisui-chem,振り返る,振り返る,VERB
 sekisui-chem,上期,上期,NOUN
 sekisui-chem,決算,決算,NOUN
@@ -4699,6 +4951,7 @@ sekisui-chem,計画,計画,NOUN
 sekisui-chem,振り返る,振り返る,VERB
 sekisui-chem,現有,現有,NOUN
 sekisui-chem,カンパニー,カンパニー,NOUN
+sekisui-chem,成長軌道,成長軌道,PROPN
 sekisui-chem,乗り,乗る,VERB
 sekisui-chem,力強い,力強い,ADJ
 sekisui-chem,将来,将来,NOUN
@@ -4772,6 +5025,7 @@ sekisui-chem,燃え盛る,燃え盛る,VERB
 sekisui-chem,エネルギー,エネルギー,NOUN
 sekisui-chem,切り開く,切り開く,VERB
 sekisui-chem,言わ,言う,VERB
+sekisui-chem,積水化学,積水化学,PROPN
 sekisui-chem,中期,中期,NOUN
 sekisui-chem,初年度,初年度,NOUN
 sekisui-chem,年度,年度,NOUN
@@ -4779,13 +5033,17 @@ sekisui-chem,向かっ,向かう,VERB
 sekisui-chem,全員,全員,NOUN
 sekisui-chem,力強く,力強い,ADJ
 sekisui-chem,挑戦,挑戦,VERB
+sekisui-chem,"
+
+","
+
+",PROPN
 sekisui-chem,とり,とる,VERB
 sekisui-chem,良い,良い,ADJ
 sekisui-chem,飛躍,飛躍,NOUN
 sekisui-chem,祈り,祈る,VERB
 nomura,あけ,あける,VERB
 nomura,おめでとう,おめでとう,ADJ
-nomura,さん,さん,NOUN
 nomura,迎え,迎える,VERB
 nomura,嬉しく,嬉しい,ADJ
 nomura,"
@@ -4876,6 +5134,11 @@ nomura,挑戦,挑戦,VERB
 nomura,自分,自分,NOUN
 nomura,好き,好き,ADJ
 nomura,見つけ,見つける,VERB
+nomura,"
+
+","
+
+",PROPN
 nomura,当たり前,当たり前,ADJ
 nomura,受け入れ,受け入れる,VERB
 nomura,自身,自身,NOUN
@@ -4888,7 +5151,6 @@ nomura,しれ,しれる,VERB
 nomura,新しい,新しい,ADJ
 nomura,時代,時代,NOUN
 nomura,創り出す,創り出す,VERB
-nomura,ない,ない,ADJ
 nomura,自身,自身,NOUN
 nomura,委ねる,委ねる,VERB
 nomura,自分,自分,NOUN
@@ -4899,6 +5161,12 @@ nomura,大切,大切,ADJ
 nomura,前向き,前向き,ADJ
 nomura,過ごす,過ごす,VERB
 nomura,重要,重要,ADJ
+nomura,"
+
+","
+
+",PROPN
+nomura,野村,野村,PROPN
 nomura,パーパス,パーパス,NOUN
 nomura,金融,金融,NOUN
 nomura,資本,資本,NOUN
@@ -4937,6 +5205,7 @@ mitsui-es,世界的,世界的,ADJ
 mitsui-es,大きな,大きな,ADJ
 mitsui-es,変化,変化,NOUN
 mitsui-es,起き,起きる,VERB
+mitsui-es,米国,米国,PROPN
 mitsui-es,トランプ大統領,トランプ大統領,ADJ
 mitsui-es,政権,政権,NOUN
 mitsui-es,担い,担う,VERB
@@ -4959,6 +5228,7 @@ mitsui-es,国際,国際,NOUN
 mitsui-es,協調,協調,NOUN
 mitsui-es,難しさ,難しさ,NOUN
 mitsui-es,浮き彫り,浮き彫り,NOUN
+mitsui-es,日本,日本,PROPN
 mitsui-es,経済,経済,NOUN
 mitsui-es,緩やか,緩やか,ADJ
 mitsui-es,回復,回復,NOUN
@@ -5004,7 +5274,6 @@ mitsui-es,"
 ",NOUN
 mitsui-es,あたっ,あたる,VERB
 mitsui-es,現状,現状,NOUN
-mitsui-es,さん,さん,NOUN
 mitsui-es,願い,願う,VERB
 mitsui-es,話し,話す,VERB
 mitsui-es,"
@@ -5065,6 +5334,11 @@ mitsui-es,挑戦,挑戦,VERB
 mitsui-es,風土,風土,NOUN
 mitsui-es,醸成,醸成,VERB
 mitsui-es,人的資本経営,人的資本経営,NOUN
+mitsui-es,"
+
+","
+
+",PROPN
 mitsui-es,三井E&S,三井E&S,NOUN
 mitsui-es,Rolling,rolling,NOUN
 mitsui-es,Vision,vision,NOUN
@@ -5121,8 +5395,8 @@ mitsui-es,"
 ",NOUN
 mitsui-es,踏まえ,踏まえる,VERB
 mitsui-es,従業員,従業員,NOUN
-mitsui-es,さん,さん,NOUN
 mitsui-es,願い,願う,VERB
+mitsui-es,三方,三方,PROPN
 mitsui-es,良し,良し,NOUN
 mitsui-es,ステークホルダー,ステークホルダー,NOUN
 mitsui-es,さま,さま,NOUN
@@ -5134,6 +5408,7 @@ mitsui-es,売り手,売り手,NOUN
 mitsui-es,よし,よし,NOUN
 mitsui-es,買い手,買い手,NOUN
 mitsui-es,世間,世間,NOUN
+mitsui-es,近江,近江,PROPN
 mitsui-es,商人,商人,NOUN
 mitsui-es,経営,経営,NOUN
 mitsui-es,哲学,哲学,NOUN
@@ -5151,6 +5426,7 @@ mitsui-es,信頼,信頼,VERB
 mitsui-es,一致,一致,VERB
 mitsui-es,日々,日々,NOUN
 mitsui-es,業務,業務,NOUN
+mitsui-es,三方,三方,PROPN
 mitsui-es,良し,良し,NOUN
 mitsui-es,刻み,刻む,VERB
 mitsui-es,関わりあう,関わりあう,NOUN
@@ -5168,7 +5444,6 @@ mitsui-es,衛生,衛生,NOUN
 mitsui-es,とっ,とる,VERB
 mitsui-es,最優先,最優先,NOUN
 mitsui-es,事項,事項,NOUN
-mitsui-es,さん,さん,NOUN
 mitsui-es,一人ひとり,一人ひとり,NOUN
 mitsui-es,日々,日々,NOUN
 mitsui-es,業務,業務,NOUN
@@ -5182,7 +5457,6 @@ mitsui-es,防ぐ,防ぐ,VERB
 mitsui-es,姿勢,姿勢,NOUN
 mitsui-es,徹底,徹底,VERB
 mitsui-es,メンタルヘルス,メンタルヘルス,NOUN
-mitsui-es,さん,さん,NOUN
 mitsui-es,自身,自身,NOUN
 mitsui-es,セルフケア,セルフケア,NOUN
 mitsui-es,加え,加える,VERB
@@ -5225,6 +5499,11 @@ mitsui-es,適切,適切,ADJ
 mitsui-es,行動,行動,NOUN
 mitsui-es,とる,とる,VERB
 mitsui-es,心がけ,心がける,VERB
+mitsui-es,"
+
+","
+
+",PROPN
 mitsui-es,干支,干支,NOUN
 mitsui-es,丙午,丙午,NOUN
 mitsui-es,丙午,丙午,NOUN
@@ -5238,6 +5517,7 @@ mitsui-es,前例,前例,NOUN
 mitsui-es,打破,打破,VERB
 mitsui-es,向け,向ける,VERB
 mitsui-es,進化,進化,VERB
+mitsui-es,うってつけ,うってつけ,PROPN
 mitsui-es,既存,既存,NOUN
 mitsui-es,捉われ,捉われる,VERB
 mitsui-es,果敢,果敢,ADJ
@@ -5270,6 +5550,7 @@ ihi,ポートフォリオ,ポートフォリオ,NOUN
 ihi,改革,改革,NOUN
 ihi,財務,財務,NOUN
 ihi,基盤,基盤,NOUN
+ihi,IHI,IHI,PROPN
 ihi,全体,全体,NOUN
 ihi,結集,結集,VERB
 ihi,一定,一定,NOUN
@@ -5332,6 +5613,7 @@ ihi,継続的,継続的,ADJ
 ihi,さらなる,さらなる,ADJ
 ihi,強み,強み,NOUN
 ihi,獲得,獲得,VERB
+ihi,IHI,IHI,PROPN
 ihi,社員,社員,NOUN
 ihi,一人ひとり,一人ひとり,NOUN
 ihi,部門,部門,NOUN
@@ -5363,6 +5645,7 @@ ihi,"
 ",NOUN
 ihi,挑戦,挑戦,VERB
 ihi,文化,文化,NOUN
+ihi,IHI,IHI,PROPN
 ihi,動かす,動かす,VERB
 ihi,挑戦,挑戦,VERB
 ihi,遂げる,遂げる,VERB
@@ -5379,6 +5662,7 @@ ihi,応援,応援,VERB
 ihi,組織,組織,NOUN
 ihi,文化,文化,NOUN
 ihi,不可欠,不可欠,ADJ
+ihi,IHI,IHI,PROPN
 ihi,歴史,歴史,NOUN
 ihi,挑戦,挑戦,NOUN
 ihi,連続,連続,NOUN
@@ -5414,7 +5698,6 @@ ihi,大切,大切,ADJ
 ihi,中核,中核,NOUN
 ihi,徹底,徹底,VERB
 ihi,存続,存続,NOUN
-ihi,ない,ない,ADJ
 ihi,安全,安全,ADJ
 ihi,安心,安心,ADJ
 ihi,職場,職場,NOUN
@@ -5424,7 +5707,11 @@ ihi,実感,実感,VERB
 ihi,職場,職場,NOUN
 ihi,築く,築く,VERB
 ihi,全員,全員,NOUN
-ihi,さん,さん,NOUN
+ihi,"
+
+","
+
+",PROPN
 ihi,家族,家族,NOUN
 ihi,とっ,とる,VERB
 ihi,素晴らしい,素晴らしい,ADJ
@@ -5437,10 +5724,12 @@ ms-japan,"
 ","
 
 ",NOUN
+ms-japan,マイクロソフト,マイクロソフト,PROPN
 ms-japan,創立,創立,NOUN
 ms-japan,周年,周年,NOUN
 ms-japan,節目,節目,NOUN
 ms-japan,迎え,迎える,VERB
+ms-japan,米国,米国,PROPN
 ms-japan,古い,古い,ADJ
 ms-japan,拠点,拠点,NOUN
 ms-japan,日本マイクロソフト,日本マイクロソフト,NOUN
@@ -5457,8 +5746,10 @@ ms-japan,フロンティア,フロンティア,NOUN
 ms-japan,組織,組織,NOUN
 ms-japan,世界,世界,NOUN
 ms-japan,誕生,誕生,VERB
+ms-japan,生成AI,生成AI,PROPN
 ms-japan,クラウド,クラウド,NOUN
 ms-japan,結集,結集,VERB
+ms-japan,日本,日本,PROPN
 ms-japan,後押し,後押し,VERB
 ms-japan,機会,機会,NOUN
 ms-japan,テクノロジー,テクノロジー,NOUN
@@ -5503,18 +5794,22 @@ ms-japan,地平,地平,NOUN
 ms-japan,果敢,果敢,ADJ
 ms-japan,挑み,挑む,VERB
 ms-japan,続け,続ける,VERB
-nyk,さん,さん,NOUN
 nyk,明け,明ける,VERB
 nyk,おめでとう,おめでとう,ADJ
 nyk,晴天,晴天,NOUN
 nyk,始まり,始まる,VERB
-nyk,さん,さん,NOUN
+nyk,日本郵船,日本郵船,PROPN
 nyk,とも,とも,NOUN
 nyk,迎え,迎える,VERB
 nyk,うれしく,うれしい,ADJ
 nyk,あたり,あたる,VERB
 nyk,一言,一言,NOUN
 nyk,あいさつ,あいさつ,VERB
+nyk,"
+
+","
+
+",PROPN
 nyk,あいさつ,あいさつ,NOUN
 nyk,干支（えと）,干支,NOUN
 nyk,意味,意味,NOUN
@@ -5533,12 +5828,16 @@ nyk,関税,関税,NOUN
 nyk,問題,問題,NOUN
 nyk,世界中,世界中,NOUN
 nyk,右往左往,右往左往,NOUN
+nyk,ロシア,ロシア,PROPN
+nyk,ウクライナ,ウクライナ,PROPN
 nyk,問題,問題,NOUN
 nyk,和平,和平,NOUN
 nyk,方向,方向,NOUN
 nyk,行く,行く,VERB
 nyk,期待,期待,VERB
 nyk,戻っ,戻る,VERB
+nyk,イスラエル,イスラエル,PROPN
+nyk,ハマス,ハマス,PROPN
 nyk,対立,対立,NOUN
 nyk,表面的,表面的,ADJ
 nyk,和平,和平,NOUN
@@ -5553,8 +5852,10 @@ nyk,誕生,誕生,VERB
 nyk,期待,期待,NOUN
 nyk,示す,示す,VERB
 nyk,支持率,支持率,NOUN
+nyk,中国,中国,PROPN
 nyk,政府,政府,NOUN
 nyk,よる,よる,VERB
+nyk,日本,日本,PROPN
 nyk,強硬,強硬,ADJ
 nyk,対応,対応,NOUN
 nyk,発生,発生,VERB
@@ -5565,14 +5866,11 @@ nyk,不能,不能,ADJ
 nyk,多発,多発,VERB
 nyk,いえ,いえる,VERB
 nyk,日本郵船,日本郵船,NOUN
-nyk,さん,さん,NOUN
 nyk,ぶれる,ぶれる,NOUN
-nyk,なく,ない,ADJ
 nyk,自分,自分,NOUN
 nyk,やる,やる,VERB
 nyk,やっ,やる,VERB
 nyk,絶え間,絶え間,NOUN
-nyk,なく,ない,ADJ
 nyk,飛ん,飛ぶ,VERB
 nyk,変化球,変化球,NOUN
 nyk,しなやか,しなやか,ADJ
@@ -5589,7 +5887,6 @@ nyk,徹底,徹底,NOUN
 nyk,重大,重大,ADJ
 nyk,事故,事故,NOUN
 nyk,発生,発生,NOUN
-nyk,さん,さん,NOUN
 nyk,日頃,日頃,NOUN
 nyk,尽力,尽力,NOUN
 nyk,敬意,敬意,NOUN
@@ -5600,7 +5897,9 @@ nyk,"
 
 ",NOUN
 nyk,早々,早々,NOUN
+nyk,米国,米国,PROPN
 nyk,よる,よる,VERB
+nyk,ベネズエラ,ベネズエラ,PROPN
 nyk,軍事,軍事,NOUN
 nyk,介入,介入,NOUN
 nyk,前々,前々,NOUN
@@ -5612,7 +5911,6 @@ nyk,局地的,局地的,ADJ
 nyk,地政学,地政学,NOUN
 nyk,問題,問題,NOUN
 nyk,顕在化,顕在化,VERB
-nyk,ところ,ところ,NOUN
 nyk,国際,国際,NOUN
 nyk,海運,海運,NOUN
 nyk,ならび,ならび,NOUN
@@ -5623,19 +5921,24 @@ nyk,ダメージ,ダメージ,NOUN
 nyk,受け,受ける,VERB
 nyk,わけ,わけ,NOUN
 nyk,理由,理由,NOUN
+nyk,米国,米国,PROPN
 nyk,経済,経済,NOUN
 nyk,好調,好調,ADJ
+nyk,米国,米国,PROPN
 nyk,国民,国民,NOUN
 nyk,購買力,購買力,NOUN
 nyk,維持,維持,VERB
 nyk,具体的,具体的,ADJ
 nyk,世界,世界,NOUN
+nyk,米国,米国,PROPN
 nyk,入っ,入る,VERB
 nyk,実入り,実入り,NOUN
 nyk,コンテナ,コンテナ,NOUN
 nyk,数量,数量,NOUN
 nyk,比較,比較,NOUN
 nyk,変わっ,変わる,VERB
+nyk,アジア,アジア,PROPN
+nyk,米国,米国,PROPN
 nyk,入っ,入る,VERB
 nyk,実入り,実入り,NOUN
 nyk,コンテナ,コンテナ,NOUN
@@ -5643,14 +5946,17 @@ nyk,数量,数量,NOUN
 nyk,同様,同様,ADJ
 nyk,増え,増える,VERB
 nyk,減らし,減らす,VERB
+nyk,中国,中国,PROPN
 nyk,出し,出し,NOUN
 nyk,他国,他国,NOUN
 nyk,補い,補う,VERB
 nyk,全体,全体,NOUN
+nyk,米国,米国,PROPN
 nyk,輸入,輸入,NOUN
 nyk,コンテナ,コンテナ,NOUN
 nyk,変わっ,変わる,VERB
 nyk,構図,構図,NOUN
+nyk,米国,米国,PROPN
 nyk,自動車,自動車,NOUN
 nyk,販売数,販売数,NOUN
 nyk,変わっ,変わる,VERB
@@ -5662,6 +5968,7 @@ nyk,"
 
 ",NOUN
 nyk,後半,後半,NOUN
+nyk,米国,米国,PROPN
 nyk,一般,一般,NOUN
 nyk,消費財,消費財,NOUN
 nyk,価格,価格,NOUN
@@ -5674,9 +5981,11 @@ nyk,対する,対する,VERB
 nyk,批判,批判,NOUN
 nyk,強まっ,強まる,VERB
 nyk,聞き,聞く,VERB
+nyk,米国,米国,PROPN
 nyk,経済,経済,NOUN
 nyk,行方,行方,NOUN
 nyk,なかんずく,なかんずく,NOUN
+nyk,米国,米国,PROPN
 nyk,購買力,購買力,NOUN
 nyk,維持,維持,VERB
 nyk,大きな,大きな,ADJ
@@ -5697,6 +6006,7 @@ nyk,一巡,一巡,VERB
 nyk,徐々,徐々,NOUN
 nyk,回復,回復,VERB
 nyk,分析,分析,NOUN
+nyk,米国,米国,PROPN
 nyk,経済,経済,NOUN
 nyk,世界,世界,NOUN
 nyk,景気,景気,NOUN
@@ -5717,12 +6027,11 @@ nyk,関係,関係,NOUN
 nyk,本体,本体,NOUN
 nyk,ならび,ならび,NOUN
 nyk,各社,各社,NOUN
+nyk,中国,中国,PROPN
 nyk,展開,展開,VERB
-nyk,ところ,ところ,NOUN
 nyk,いたずら,いたずら,NOUN
 nyk,おじけ,おじける,VERB
 nyk,づく,づく,VERB
-nyk,なく,ない,ADJ
 nyk,慎重,慎重,ADJ
 nyk,影響,影響,NOUN
 nyk,先読み,先読み,VERB
@@ -5737,6 +6046,8 @@ nyk,世界中,世界中,NOUN
 nyk,早く,早い,ADJ
 nyk,終結,終結,VERB
 nyk,願っ,願う,VERB
+nyk,ロシア,ロシア,PROPN
+nyk,ウクライナ,ウクライナ,PROPN
 nyk,問題,問題,NOUN
 nyk,本当,本当,NOUN
 nyk,和平,和平,NOUN
@@ -5778,13 +6089,14 @@ nyk,沿っ,沿う,VERB
 nyk,技術,技術,NOUN
 nyk,開発,開発,NOUN
 nyk,新規,新規,ADJ
+nyk,All,ALL,PROPN
+nyk,Japan,JAPAN,PROPN
 nyk,共創,共創,NOUN
 nyk,資本,資本,NOUN
 nyk,効率,効率,NOUN
 nyk,向け,向ける,VERB
 nyk,施策,施策,NOUN
 nyk,社員,社員,NOUN
-nyk,さん,さん,NOUN
 nyk,誇り,誇り,NOUN
 nyk,もっ,もつ,VERB
 nyk,生き生き,生き生き,ADJ
@@ -5793,6 +6105,7 @@ nyk,制度,制度,NOUN
 nyk,導入,導入,NOUN
 nyk,賃金,賃金,NOUN
 nyk,改定,改定,NOUN
+nyk,AX,AX,PROPN
 nyk,BX,bx,NOUN
 nyk,CX,CX,NOUN
 nyk,EX,EX,NOUN
@@ -5818,6 +6131,7 @@ nyk,"
 
 ",NOUN
 nyk,DX,DX,NOUN
+nyk,デジタルトランスフォーメーション,デジタルトランスフォーメーション,PROPN
 nyk,分野,分野,NOUN
 nyk,肉まん,肉まん,NOUN
 nyk,プロジェクト,プロジェクト,NOUN
@@ -5913,7 +6227,6 @@ nyk,日本郵船,日本郵船,NOUN
 nyk,本体,本体,NOUN
 nyk,含め,含める,VERB
 nyk,各社,各社,NOUN
-nyk,さん,さん,NOUN
 nyk,定期的,定期的,ADJ
 nyk,抜き打ち,抜き打ち,NOUN
 nyk,訓練,訓練,NOUN
@@ -5948,7 +6261,6 @@ nyk,社員,社員,NOUN
 nyk,現役,現役,NOUN
 nyk,社員,社員,NOUN
 nyk,各社,各社,NOUN
-nyk,さん,さん,NOUN
 nyk,はじめ,はじめ,NOUN
 nyk,全て,全て,NOUN
 nyk,取引先,取引先,NOUN
@@ -5983,12 +6295,13 @@ nyk,文化,文化,NOUN
 nyk,支える,支える,VERB
 nyk,ミッション,ミッション,NOUN
 nyk,DNA,DNA,NOUN
+nyk,Bringing,bringing,PROPN
+nyk,value,Value,PROPN
 nyk,to,to,NOUN
 nyk,life,LIFE,VERB
 nyk,創業,創業,NOUN
 nyk,周年,周年,NOUN
 nyk,年度,年度,NOUN
-nyk,さん,さん,NOUN
 nyk,とも,とも,NOUN
 nyk,踏み出し,踏み出す,VERB
 nyk,"
@@ -5997,16 +6310,14 @@ nyk,"
 
 ",NOUN
 nyk,最後,最後,NOUN
+nyk,日本郵船,日本郵船,PROPN
 nyk,社員,社員,NOUN
-nyk,さん,さん,NOUN
 nyk,家族,家族,NOUN
-nyk,さん,さん,NOUN
 nyk,健康,健康,ADJ
 nyk,安全,安全,ADJ
 nyk,過ごせ,過ごせる,VERB
 nyk,会社,会社,NOUN
 nyk,事故,事故,NOUN
-nyk,なく,ない,ADJ
 nyk,着実,着実,ADJ
 nyk,発展,発展,VERB
 nyk,祈念,祈念,VERB
@@ -6066,10 +6377,14 @@ mitsubishi-materials,予測,予測,VERB
 mitsubishi-materials,精鉱,精鉱,NOUN
 mitsubishi-materials,供給量,供給量,NOUN
 mitsubishi-materials,限り,限り,NOUN
+mitsubishi-materials,Scrap,scrap,PROPN
 mitsubishi-materials,リサイクル,リサイクル,NOUN
 mitsubishi-materials,原料,原料,NOUN
 mitsubishi-materials,重要性,重要性,NOUN
 mitsubishi-materials,高まっ,高まる,VERB
+mitsubishi-materials,欧州,欧州,PROPN
+mitsubishi-materials,米国,米国,PROPN
+mitsubishi-materials,Scrap,scrap,PROPN
 mitsubishi-materials,発生,発生,NOUN
 mitsubishi-materials,処理,処理,NOUN
 mitsubishi-materials,上回る,上回る,VERB
@@ -6089,6 +6404,7 @@ mitsubishi-materials,構築,構築,NOUN
 mitsubishi-materials,求め,求める,VERB
 mitsubishi-materials,世界,世界,NOUN
 mitsubishi-materials,トップクラス,トップクラス,NOUN
+mitsubishi-materials,Scrap,scrap,PROPN
 mitsubishi-materials,集荷,集荷,NOUN
 mitsubishi-materials,処理,処理,NOUN
 mitsubishi-materials,能力,能力,NOUN
@@ -6157,6 +6473,8 @@ mitsubishi-materials,"
 
 ",NOUN
 mitsubishi-materials,具体的,具体的,ADJ
+mitsubishi-materials,欧州,欧州,PROPN
+mitsubishi-materials,米国,米国,PROPN
 mitsubishi-materials,原料,原料,NOUN
 mitsubishi-materials,製錬,製錬,NOUN
 mitsubishi-materials,新設,新設,NOUN
@@ -6167,6 +6485,7 @@ mitsubishi-materials,ビジネス,ビジネス,NOUN
 mitsubishi-materials,グローバル,グローバル,ADJ
 mitsubishi-materials,展開,展開,NOUN
 mitsubishi-materials,加速,加速,VERB
+mitsubishi-materials,Scrap,scrap,PROPN
 mitsubishi-materials,処理,処理,NOUN
 mitsubishi-materials,倍増,倍増,NOUN
 mitsubishi-materials,タングステン,タングステン,NOUN
@@ -6250,6 +6569,7 @@ mitsubishi-materials,資源,資源,NOUN
 mitsubishi-materials,再生,再生,NOUN
 mitsubishi-materials,可能,可能,ADJ
 mitsubishi-materials,エネルギー,エネルギー,NOUN
+mitsubishi-materials,コーポレート,コーポレート,PROPN
 mitsubishi-materials,部門,部門,NOUN
 mitsubishi-materials,組織,組織,NOUN
 mitsubishi-materials,引き続き,引き続く,VERB
@@ -6257,7 +6577,6 @@ mitsubishi-materials,重要,重要,ADJ
 mitsubishi-materials,役割,役割,NOUN
 mitsubishi-materials,担う,担う,VERB
 mitsubishi-materials,変わり,変わり,NOUN
-mitsubishi-materials,なく,ない,ADJ
 mitsubishi-materials,部門,部門,NOUN
 mitsubishi-materials,一致,一致,VERB
 mitsubishi-materials,団結,団結,VERB
@@ -6310,6 +6629,7 @@ mitsubishi-materials,達成,達成,NOUN
 mitsubishi-materials,中核,中核,NOUN
 mitsubishi-materials,役割,役割,NOUN
 mitsubishi-materials,果たし,果たす,VERB
+mitsubishi-materials,コーポレート,コーポレート,PROPN
 mitsubishi-materials,部門,部門,NOUN
 mitsubishi-materials,部署,部署,NOUN
 mitsubishi-materials,促進,促進,VERB
@@ -6327,8 +6647,6 @@ mitsubishi-materials,"
 mitsubishi-materials,会社,会社,NOUN
 mitsubishi-materials,動かし,動かす,VERB
 mitsubishi-materials,原動力,原動力,NOUN
-mitsubishi-materials,ない,ない,ADJ
-mitsubishi-materials,さん,さん,NOUN
 mitsubishi-materials,一人ひとり,一人ひとり,NOUN
 mitsubishi-materials,大きな,大きな,ADJ
 mitsubishi-materials,求め,求める,VERB
@@ -6351,7 +6669,6 @@ mitsubishi-materials,問い,問う,VERB
 mitsubishi-materials,続け,続ける,VERB
 mitsubishi-materials,挑戦,挑戦,NOUN
 mitsubishi-materials,続け,続ける,VERB
-mitsubishi-materials,さん,さん,NOUN
 mitsubishi-materials,一度,一度,NOUN
 mitsubishi-materials,自身,自身,NOUN
 mitsubishi-materials,仕事,仕事,NOUN

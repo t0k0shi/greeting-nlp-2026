@@ -1,6 +1,17 @@
+import pathlib
+
+import matplotlib
 import matplotlib.pyplot as plt
 import networkx as nx
 import streamlit as st
+
+# 日本語フォント設定
+_font_path = pathlib.Path(__file__).parent.parent / "fonts" / "NotoSansJP-Regular.ttf"
+if _font_path.exists():
+    from matplotlib import font_manager
+    font_manager.fontManager.addfont(str(_font_path))
+    matplotlib.rcParams["font.family"] = font_manager.FontProperties(fname=str(_font_path)).get_name()
+matplotlib.rcParams["axes.unicode_minus"] = False
 from nlp import (
     filter_by_groups,
     group_filter_widget,
